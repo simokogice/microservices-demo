@@ -40,6 +40,7 @@
         <kafka-avro-serializer.version>5.5.1</kafka-avro-serializer.version>
         <spring-cloud.version>3.1.4</spring-cloud.version>
         <spring-cloud-dependencies.version>2021.0.4</spring-cloud-dependencies.version>
+        <jasypt.version>3.0.4</jasypt.version>
     </properties>
     <!-- DependencyManagement help us to define all dependencies in the base pom.xm without really downloading them-->
     <!-- Any submodule that wants to include a dependency, will simply override and use a dependencies in the module itself-->
@@ -168,6 +169,11 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-security</artifactId>
                 <version>${spring-boot.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.ulisesbocchio</groupId>
+                <artifactId>jasypt-spring-boot-starter</artifactId>
+                <version>${jasypt.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
