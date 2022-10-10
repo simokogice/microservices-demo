@@ -1,0 +1,122 @@
+2022-10-05 14:21:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on MacBook-Pro-de-Gilles.local with PID 3394 (/Users/gillescedric/Documents/Formations/EVENT-DRIVEN MICROSERVICES/microvervices-demo/twitter-to-kafka-service/target/classes started by gillescedric in /Users/gillescedric/Documents/Formations/EVENT-DRIVEN MICROSERVICES/microvervices-demo)
+2022-10-05 14:21:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-05 14:21:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.225 seconds (JVM running for 2.286)
+2022-10-05 14:21:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts ....
+2022-10-05 14:21:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-10-05 14:21:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - hello microservices
+2022-10-05 14:21:28 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-10-05 14:21:31 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jenniesrenes: #JENNIE at CHANEL Spring-Summer 2023 Show in Paris!
+
+#JENNIExCHANELSS23 https://t.co/zzsFCI7v8h
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Learn why IBM was named a Market Leader in the Integrated Planning & Analytics report from BARC Research.
+#ShelasDigital #Plan #Planners # 
+
+→https://t.co/WtpnA16xFL https://t.co/qpsN7pFXMb
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🚪Come out and visit Brian at  his listing in Spring Grove. This ranch home offers 3 bedroom, 2 full baths and huge corner lot! See you there 👀
+#openhouse #sellersagent #lakesrealtygroup #springgrove https://t.co/EpyuoNX01f
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @FranzSulzer: Mit 40 Jahren schlenderte Franz Kafka (1883-1924), der nie geheiratet und keine Kinder hatte, durch den Berliner Steglitz-…
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Get ready for the first #JavaOne in 5 years with this run of show from the @Java team, including a breakdown of the schedule and activities happening at this year's event. https://t.co/9UW4QkSmVV https://t.co/lWxDCHDMff
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @SSingpem: LOUIS VUITTON WOMEN'S SPRING SUMMER 2023 https://t.co/ygsaPAJ41m
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @doan_alina Ahh this was the coolest class, I was also on this trip last spring! Tim is the best and ENVIR280 was such a unique course for learning more about the nitty-gritty ecology of the #PNW. Hoping to use some of that knowledge for my #ENVIR490 capstone!
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Welcome to 1471 Randow Rd. Impeccably maintained 3BR 3.5BA home in the highly desirable community of Spring Garden.  Upon entering the home,...
+
+Click here for details:
+https://t.co/vCtnmfTWqb https://t.co/qKLwcK6oE4
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text this ex wali feeling with java is never gonna fade away.
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @fatsajak_ OH MY GOD, I HAD NO IDEA https://t.co/BXYjQouBMQ
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【サメの映画（Shark movie)】
+・SPRING BREAK SHRAK ATTACK （ブルーサヴェージ） https://t.co/XXbs5q6EOe
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 📰 Show HN: Kafka 0.8.0 on Cloudflare Workers https://t.co/GACGASwdqL #hackernews #cloudflare #workers #kafka #0.8.0 #show
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text light spring color inspo https://t.co/QlOiUwOVpb
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @brhodes Less damage than what you and your master Obama during the Arab spring .. how many lives were lost in Libya , Syria , and Iraq due to your administration’s incompetence?
+
+GFY , Ben
+2022-10-05 14:21:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @OCanonist My understanding is that they want to not get beaten for going without veils.
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @blinkhollie: ONE SPRING NIGHT ended in 2019, you and many people continue to ship them, if you don't like others to do it, don't do it…
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @terapiagora: Javascript
+Phyton
+Node.js
+PHP
+Java
+
+Se você é programador, faça terapia
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @midudev: TOP 10 LENGUAJES de PROGRAMACIÓN más demandados en el mercado.
+
+🥇 JavaScript
+🥈 Java
+🥉 Python
+4. PHP
+5. TypeScript
+6. C#
+7. C++…
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Ubiquiti Unifi 7.2.94 https://t.co/S4ffx23tVA     Name:Ubiquiti Unifi Version:7.2.94  Beschreibung:Network Application für Windows - Verwaltungssoftware für Unifi WLAN Access Points, benötigt Java 8 (AdoptiumOpenJDK, aktuelle Runtime, 64-Bit, Hotspot als .msi, beim Setup alle ... https://t.co/2GsZgLSY0l
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Your favorite season? 
+
+-Winter
+-Autumn 
+-Spring 
+-Summers
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @OhioStateMLAX has a prospect day in 2 weeks at The Woody. This new complex is next door. Hopefully, we can sneak a peak inside. 👀🥍🔥🔥 https://t.co/ZeQBhNA2YQ
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @21metgala: Kat Graham attends the Monot Womenswear Spring/Summer 2023 show as part of #PFW https://t.co/5nauH7Zc8M
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BanditoBaseball Is it? Or for a pitcher is it better to be training and getting stronger to come out your best in your last High School season this spring where scouts will be watching ?  What will Jupiter prove for a pitcher that they watched all summer?  Just asking to see what others think.
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programmerjoke9: I'm tired#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #reactjs #bugbount…
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Why tf is java so damn hard
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yuniemaki: thread 🧵: ginkgo leaves are a common motif when #beiguang are drawn together in official art... why is that??
+
+Ginkgo: 銀杏 yí…
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @pearl_mkmm: Versace Spring 2023 #VioletAtelier https://t.co/4qHyXTgOyV
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @victora86621867: Java the hutt sin hd y con hd https://t.co/kx1UjsaB0Q
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java Test Architect- (Java Coding is mandatory with BDD knowledge )-Dallas or Charlotte https://t.co/5GzBj26Pds
+2022-10-05 14:22:06 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @thezoereport: No thoughts, just Zendaya in head-to-toe @MaisonValentino 🖤 https://t.co/xqOhSAjQw1 https://t.co/ek9N6AcvE7
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Check out Batik Java Wood Mask Brown Indonesia Hand Carved Painted Wall Art Decor Ornament https://t.co/iKLWALon8v #eBay via @eBay
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @refrijinator: alternative fridge festive spring edition https://t.co/rJ8nRRDy25
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jenniesrenes: #JENNIE at CHANEL Spring-Summer 2023 Show in Paris!
+
+#JENNIExCHANELSS23 https://t.co/4w6kZjhpuF
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java juice… https://t.co/ZQRYpJkrGp
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java Full Stack Developer is ready to join… https://t.co/Y8Brygfgwa
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ランキング:10位 「レコーダー・録画用メディア」 (03:22)
+
+BDP-S1500
+
+価格:-🔥
+
+https://t.co/WoJA9D9luJ
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text eager to spring scenery covered my heart. Your smile is like a song,#肉便器 #jk制服 #制服 #裸聊 #高跟 #1v1 #足控 #母子 https://t.co/0TkZezAoCb
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Think again, thanks to OPEC. It's going to get much worse. The affection will come sooner. No relief from the pump till around next spring https://t.co/H98nsthHm5
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @mayank_off: Day 42... #90DaysOfCode
+Solved some leetcode questions on previous concept i,e, Sorting in Java.
+Github link-
+https://t.co/…
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Every time I see #LAPD I think, what now.
+Internal LAPD department whitewash
+L.A. is supposed 2B Liberal. Where is our mayor, celebrating his celebrity& new cushy post as Ambassador 2 India?  (Fuck Biden 4 this appointment) the inept getting paid for life
+#Newsom?
+This counts https://t.co/lMisjsJUNo
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Yummi Universe - Naru Seasons Sale! Yummi Universe - Spring Naru 2640 sold for 160.0 ADA at https://t.co/qogI6YEVTE
+
+https://t.co/XWrN3Yk13c
+
+#yummiuniversenaruseasons #cnft #ada https://t.co/7jXIZQPR2B
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Centuries_LOL: 220402 LCK SPRING FINALS
+#FAKER #페이커 #이상혁
+
+✨✨ https://t.co/lXTpHHVYxZ
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @jonjo_sins @Datascientist3_ @sankulyaa I have same level of intellect as Kafka had but you people will only realize after my demise.
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @starfess SEVENTEEN: Don Quixote
+NCT: Limitless
+Blackpink: Kill This Love
+Twice: Dance The Night Away
+G-idle: Hwaa
+Enhypen: Polaroid Love
+BTS: Spring Day
+Treasure: Going Crazy
+Tbz: -
+Skz: Hellevator
+Red Velvet :Feel My Rhythm
+Weeekly: After School
+EXO: Love Me Right
+Loona: -
+Oneus: -
+2022-10-05 14:22:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring and Expectations ♪ 3* Card https://t.co/ndVHSg1fm2

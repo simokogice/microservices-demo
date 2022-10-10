@@ -1,0 +1,1920 @@
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on MacBook-Pro-de-Gilles.local with PID 79097 (/Users/gillescedric/Documents/Formations/EVENT-DRIVEN MICROSERVICES/microvervices-demo/twitter-to-kafka-service/target/classes started by gillescedric in /Users/gillescedric/Documents/Formations/EVENT-DRIVEN MICROSERVICES/microvervices-demo)
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.105 seconds (JVM running for 2.029)
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts ....
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - hello microservices
+2022-09-30 18:48:56 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-09-30 18:49:00 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Sill311 @KAFKA_Dev Dat had ik zelf natuurlijk ook kunnen doen, ik deed het om iemand anders te stangen. Deze Wiki-page is lang niet bijgewerkt. Huidige verblijfplaats staat er nl. niet in of ik moet slordig gelezen hebben. Maar dat hij 1 van de 6 rijkste personen van A'dam was? Nooit geweten. 1/2
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @bejaha: I’m a native Texan and no spring chicken. I’ve never seen a candidate work as hard as Beto. He wants to help all Texans but has…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text I scrolled fast and thought that was Merlin and Gudako at first😭 https://t.co/ACNQNowpab
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @EbubeJane1: Erica Nlewedim🤝Angelic voice.  Pls don't stop streaming #SoftLife on Spotify. Your ears deserves a good music. 
+ERICA X DJ…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @everhuizerstijn: Van de week in een verwijderde tweet van KAFKA:
+PEPPIE VAN HOUWELINGEN SLOOPT boerenwijsheid, en krijgt daarvoor een L…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ZifiriElif: Hasan Semerci, the uncle of 8-month-old Bahar, who has been in prison with her mother for a week."Spring is a very active c…
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text excuse the messy drawing but this is what i thought up so far. not too satisfied with kohaku’s side but yeah. im kinda stuck cause aira’s looks a little similar to the spring bed set but it also doesn’t. idk im open to ideas and criticisms 👍 https://t.co/lvv9fVLAOX
+2022-09-30 18:49:18 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WattFoundation: After finalizing another quarter of funding, we have now donated $6,799,702.33 to middle schools in 39 states and DC!…
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @PeacheeBelle @BewitchedInk Absolute stunner not gonna lie
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/XUKw3qoKP6
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CaseyChasem My girl German husky sheds a ton in spring and fall!
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WHR: Can 🇯🇵 galloper, DO DEUCE (ドウデュース) spring an upset in the Prix de l'Arc de Triomphe? 
+
+#競馬 | #日本競馬 | #ドウデュース | #QPAT | @JRA_WorldR…
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @History_Indeed Ever see aliens break in Florida?  This is not right. Spring break ain’t either
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @DroneStrikeTran i like java but i struggle with graphics lol i should learn more about that
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @katehawkings I miss my toad.
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @hobirealm hello we don’t interact as much but i hope you’re okay and are well. if you need anything im here for you! you are loved always okay? never forget that alright. you’re the best and god you make everyone feel welcomed. i hope you smile more and laugh. you need it. mwah!
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @JeniferWrites this would be the search for my drafted book one in the series. Same smalltown but different couple. 🥰
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Learn to accept the seasons of your heart, like you accept winter, fall and summer. Spring never lasts forever. But that's okay. The winter is cold, but beautiful. Fall is windy, but full of color. And summer is hot, but in that heat, still grow the most beautiful roses.
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Sheldoc4 @SaskLass https://t.co/ef3XnHKXYT
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Tell me you found me on twitter to get a free squirt video 💦💦💦
+https://t.co/0ihlnmHJNI
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MangaMoguraRE: "Bungo Stray Dogs" by Asagiri Kafka, Harukawa 35 is on the cover of upcoming Anan issue 10/12 (2022) Special Edition. ht…
+2022-09-30 18:49:32 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text The stone rests by the window, still coated in salt, but not alone. It is loved by a girl who wants to hold the ocean in her palm.  - from Away by Emily Dromgold, Spring 2020
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Kasparov63 @goffi_emmanuel @GlobalAIEthics "Chess books should be used as we use glasses: to assist the sight, although some make use of them as if they thought they conferred sight" - Jose Raul Capablanca
+
+“The written word is unalterable, and opinions are often only an expression of despair.”― Franz Kafka
+
+@Kasparov63 https://t.co/n8b4lVG3ir
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Kate Barton launches her Spring/Summer 2023 Collection
+
+#Fashion
+
+Details at #Fabuk Web:  https://t.co/2Xb8ESrH4e https://t.co/rmEtPasZCl
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @NYGELSARTORIAL: Video Vixen Jeannette Chaves wearing
+Trosman Churba Spring 2003 RTW https://t.co/axelbvjQpe
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Looking forward to the day when the swallow is the spring newspaper
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/9NxemPoPoU
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java Joe on the mound. https://t.co/GTjtRpE40s
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @423folder: 220912 #JENO on Town & Country
+
+The Best Moments from NYFW Spring/Summer 2023 — Peter Do
+
+jeno leading a stunning cast of 60…
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/5jqXgXyPR7']
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WHR: Can 🇯🇵 galloper, DO DEUCE (ドウデュース) spring an upset in the Prix de l'Arc de Triomphe? 
+
+#競馬 | #日本競馬 | #ドウデュース | #QPAT | @JRA_WorldR…
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @saturnicks: joe locke es nuestro perfecto charlie spring, parece sacado del cómic. https://t.co/XyN6XTdwmk
+2022-09-30 18:49:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Louis luggage and all, Spring summer and fall, And winter too.
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text if this isn't a tribute to mcqueen spring '99 idk what is
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @prasannabrabour: I just published BEHAVIORAL ( TECHNICAL FIT ) Interview Questions https://t.co/WYbtpIhF4C 
+
+#interview #sql #mongodb #…
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Faz o L https://t.co/EUs9MwJQmy
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @siimplyy3 Hii if you still looking, I can level up for you for 250 w tax?
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/EtE1K55bvF
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/pZBkTmclJk
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text igual me encanta https://t.co/ph9Z1pGLS1
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【 Image ♡】Chibi Outfits | Casual (Spring~Summer) https://t.co/vrCRuRGebL
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/nifYC8BAl2
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @proxy_go meu ex me ajudava tanto com java q n sei se sinto mais saudades da piroka ou da mentoria af
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nadinbrzezinski: borders of Ukraine in 1991. He believes that the liberation of Crimea from the occupiers will take place "by the end o…
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Bull_Disclosure: @TrickettTime @TGBN1997 Spring game 2.0
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/IwLDIPGyOc
+2022-09-30 18:49:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @prasannabrabour: I just published BEHAVIORAL ( CULTURAL FIT ) Interview Questions https://t.co/WrwWqg3CDA 
+
+#interview #sql #mongodb #c…
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/c01ijqLaoH
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/ez9GwzBTLB
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text J'en connais une qui voudrait lui donner 
+@_parklina https://t.co/nax3jAdXLT
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: Bella Hadid desfilando para Coperni Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https://t.co/ovhJ9rs70T https…
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MangaMoguraRE: "Bungo Stray Dogs" by Asagiri Kafka, Harukawa 35 is on the cover of upcoming Anan issue 10/12 (2022) Special Edition. ht…
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_nwinter Me when he left https://t.co/MR1Hip8PvK
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/ujNR96o5lc
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @prasannabrabour: I just published BEHAVIORAL ( CULTURAL FIT ) Interview Questions https://t.co/WrwWqg3CDA 
+
+#interview #sql #mongodb #c…
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Here come the Blazers! https://t.co/GbgWn0LY7Q
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Easily one of the most recognizable and most beloved of the migratory birds, the #AmericanRobin are clearly getting ready to head south. 
+
+Please mark your glass and protect habitat so they can rejoin us safely in spring.  #Migration #YYC @BirdFriendlyYYC #ReconciliACTION https://t.co/IR2TnaKwQj
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BestNelson19 @MrNickNelson @Henry___Nelson i do, dave
+2022-09-30 18:50:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @andrewkearns64 @LOUISAGUIRRE @NWSKeyWest said there’s been an anomaly in the Lower Keys that made the king tides about a foot higher than normal. @MiamiRosenstiel is researching what’s causing the anomalies.
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @HackeandoFuturo Eu Gosto nesse estilo:
+https://t.co/IcXCCOlbB9
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @gonzalodetarde Yo de momento ni tan mal aunque solo estamos comenzando jsjsjsjdjd
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @pickss123 @mim_aus Where’s your vegan stalker today ? She would’ve loved the sound of it 🤣
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @RussiaUN: President #Putin: We'll always remember the heroes of the Russian Spring, those who refused to accept the neo-Nazi coup in #U…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @mjmimages: WHAT: Loewe (Spring 2023)
+
+OCCASIONS: group tour of a distillery or taking an herb sold by an ancient man in an antique shop…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @LianneWeekly: “For I will pour water on the thirsty land, and streams on the dry ground; I will pour out my Spirit on your offspring, a…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @seoyeajiphotos: #9YearswithSeoYeaJi #SeoYeaJi #서예지
+
+Congratulations on the 9 years of success our eternal spring Seo Yea Ji! The best a…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @legitngnews: Erica has continued to surprise Nigerians with her multi-talents!
+
+The former reality star us trending after she made a so…
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @tamsully12 Spring, fall and cool summer nights
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @theemmamag https://t.co/9cDAc8YcSI
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_pink_sm2 @mikoriina 私も気づかなかった！
+可愛い！(((o(♡´▽`♡)o)))
+2022-09-30 18:50:17 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @everhuizerstijn: Van de week in een verwijderde tweet van KAFKA:
+PEPPIE VAN HOUWELINGEN SLOOPT boerenwijsheid, en krijgt daarvoor een L…
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CSGO_RoIl --  @hikaristicks @The1m2o @MRobocob @spring_trap02 @stenishhh @joeltron29 @teppo223 @Antonnyy_S @HyperrJD @WakanLes @patrong0d_ofc @macedo_richard2
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yakuter: Java'cılara soru: Java ile Windows event handle'larını açıp dinleyebiliyor musunuz? Evet ise bir makalesi, dokümanı veya örnek…
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @niconic90346166 すげすげすげぇぇえ🔥🔥🔥
+おめでとう😍🎉れおぴが来る🤤
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @XiaZhuBarker: I am looking for #PhD and #MS students to start in my lab group at UW-Madison in Spring, Summer or Fall 2023! If you're p…
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 涼しい朝。夜露。きのこ。 https://t.co/dRRsfoDT02
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @dhorn607 I walk SV 2x/week if no snow. Great bones but as u saw the greens have 100 yrs shrinkage and the entire grounds crew can fit in my car. Ideally every tree would go but that ain’t happening. that green damage just arrived in last two weeks. But I will still enjoy it this winter
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Javaタニエン
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Sill311 @KAFKA_Dev Dit, van 22 sept. jl. heb ik ook gemist.
+
+https://t.co/ehI9xxJ3Uu
+
+2/2
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mura12_Spring おぉ-(oﾟДﾟﾉ)ﾉ
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text https://t.co/MswRMLH7d1 https://t.co/G1DjcCAMqs
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:50:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【10月 急募案件/C言語・Java/海浜幕張・秋葉原/リモート有】
+https://t.co/eMSDnGOtWL
+#求人 #人材募集 #システムエンジニア #C言語  #Java
+2022/10/1 7:50 https://t.co/J32f06C6zL
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BigWoofa @IainMacInnesUHI Every time something (usually just me tbh) stops me! Last time was Covid in spring. Now’s a good time to start again though, before winter sets in 🤔
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @saturnicks: joe locke es nuestro perfecto charlie spring, parece sacado del cómic. https://t.co/XyN6XTdwmk
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/52qe9d7c9z
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/ApbLwLijM4
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Sexy Rompers Women Jumpsuit 2020 Spring Long Sleeve Mesh High Waist Slim Fit Casual Elegant Party Prom Sequin Tracksuit https://t.co/kCk3E1uMVg
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @VogueRunway: See every look from Rave Review's spring 2023 collection: https://t.co/mZQUypVVKX https://t.co/HyPCiplCJV
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @barbiemichelle_: @proxy_go meu ex me ajudava tanto com java q n sei se sinto mais saudades da piroka ou da mentoria af
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @NotZariaaa: Spring and summer are my favorite seasons.
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @bassemkrikorian But she didn't want to move to a Muslim country?
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Ender2435: UPDATED LINKS [Sep 2022]
+
+New Twitter: https://t.co/XDaymjtysL
+Old Twitter: https://t.co/zAFC6s5inj
+Discord: https://t.co/i1…
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Spring_tinder お願いします！
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KAFKA_Dev Zelensky heeft meer charisma dan Poetin! Poetin offert jonge Russen op in een zinloze oorlog!
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:50:42 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/VJt7jtpN8y
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 1Z0-815-JPN - Java SE 11 Programmer I - 日本語 (JPN)
+
+試験の予約はした！
+10月30日
+みんな合格祈っててw
+
+合格してやるとは言わねぇ！
+合格してから「合格した！」と言ってやるぜww
+
+ジョジョにハマりすぎて最近おかしいww
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text secured those + gonna take diff eq next semester to lock in my math a.s. 💪lul https://t.co/te9Ncc1Zr3
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Alihelal109 طب راستر الراوتر كدا طيب
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @WalkerAmerica She’s no spring chicken, but she’s still got some pluck!!! 🤪🗡
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @railssson01 @PauloVieiraReal Sim, aquele vídeo do Gregório metendo o pau no Lula, dizendo que ele era corrupto, brotherzinho de dono de empreiteira não tem tanto tempo assim, em 2018 era Ciro total quando o Lula foi preso, agora finge que nunca falou ou fez algo
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #October 1st is #InternationalCoffeeDay! Hey @starwars @Starbucks @DunkinDonuts @JustCoffeeCoop What’s fat, hairy and drinks a lot of #coffee?… Java the Hut! https://t.co/UNr4t6rMjk #CoffeeDay
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Check out this listing I just added to my #Poshmark closet: L’ ARTISTE by Spring Step Giti heeled sandal size 8. https://t.co/uYwrZzanuM #shopmycloset @poshmarkapp
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @julavdo @jwprosje Te verwaarlozen.
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 2022年Java求职现状：要求你前后端测试运维全都会，工资就10k
+刚刚从这个大坑里逃离了，才发现生活如此美妙
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BorisJohnson Meanwhile, Germany lost all hope of energy plunging it into a depression by spring, and became the new US b!tch. Sad. https://t.co/ACQMDFWfBO
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text This 3 BD/ 2 BA in Silver Spring MUST be seen. Call, text or direct message me for more info!  https://t.co/5rahX2jMwE https://t.co/iaNBN4E3Z6
+2022-09-30 18:50:50 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @WBCoachYoung Get t shirts to look like this and sell!!!!
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Sanoberkamaal Spring 22 for it?^
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Attempt to form a spaghetti website using Java with pure luck and no sleep
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text まだ一人で書けてないのでHTML&CSS道場編2周目を先に、その後JavaとJQueryに手を出していきます。
+Codestepやりたいけどいったん我慢。
+1周目だけでも10月前半にできるかな。
+#webデザイン勉強中  
+#Webデザイナーと繋がりたい
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @PussyLux: Spring heat...  Can't put on clothes #EbonyPussy https://t.co/kIS4f63RTv
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @blasterdition oh java-
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nanathecurator: Schiaparelli Spring Summer 2023 Ready to Wear https://t.co/uQRYGOXZLS
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @JTHAN_67VT Yo tampoco no sabia, es que anteriormente dijeron y creo que aun se puede que si tienes bedrock te regalan java y viceversa y al obtener el java regalado eres premiun, uno que es pobre sabe cosas
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Tassie_Devil_: It's a nice Spring day here in Melbourne.
+
+One is reminded of when our govt granted picnic allowances this time last yea…
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Green_Mt_Girl: @ketaminh Kafka would write his best work if he were alive now.
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @anuja_java Congrats Anuja!
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text WL Warning @Josephi17635389 @kuailan77 @spring_lyly @EllisArthur12 @LylyDora @luckymissufeee @DrewBry58271704 @BblytheStone @CzarNicola @AndreHarriman3 @KekosPopa https://t.co/PIteXjWXvS
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/NvA3Nto9l6
+2022-09-30 18:50:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kimio_kosaka: 旧版KiCad6入門実習テキストでは自動配線ツールとして「Freerouting-v.1.4.4」を取り上げていたのだがv.1.4.4にはJava_log4jに起因する脆弱性があるとの指摘がありlog4j対策済みfreerouting-v.1…
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @marianantidormi Espérame para spring break ok?❤️❤️
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @laFranc458: 🚨 Place your orders
+ Telegram:
+ @tonnyroch5
+ 
+#Job #Java #Programming #Coding #100DaysofCode #DEVCommunity #poupettekenza #…
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text We are proud to provide remodeling and construction services to meet any client’s needs. Talk to us for service out of Spring Hill, FL today!
+https://t.co/e6jhSO0kGv
+(813) 892-3769 https://t.co/qgAxhFyv8U
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Beverly Peele, Thierry Mugler Spring/Summer 1991 https://t.co/bXJUxkuiQN
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text I love the idea of doing a reveal this way. https://t.co/WHJ2xMKGsN
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nadinbrzezinski: 🇺🇦Budanov made a prediction about the end of the war: the Armed Forces will enter Crimea in the spring. The head of th…
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @mitskithoughts: 2. "going back in"
+
+"tell me 'dont' so i can crawl back in", from first love / late spring
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング:20位❗(今週の新着)
+
+「■CAMP LOGOS モンスターパーカー  (サンド)  XL 33209601」
+メーカ:ロゴス
+
+価格:¥17,000✨
+🔥売り切れ間近🔥(07:51)
+
+https://t.co/44rCsKrJd4
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング：20位❗(グラフィックボード)
+
+「■ZOTAC GAMING GeForce RTX 3070 Ti Trinity OC ZTRTX3070TITRINITYOC-8GB/ ZT-A30710J-10P」
+メーカ:ZOTAC
+
+価格:¥115,556✨
+🔥売り切れ間近🔥(07:51)
+
+https://t.co/E9ODfTaRuh
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @theemmamag Beautiful butt
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @chanscorner Oh but NCT 2023 is confirmed for the spring! So WayV cb and NCT 2023 confirmed.
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/akHKp6r4JF
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Hâf ☀️⛱️
+Gwanwyn🌼
+Hydref 🍁🍂
+Gaeaf ☃️🎄 https://t.co/HhjvcZlALO
+2022-09-30 18:51:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KAFKA_Dev Zo dom.
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/n2P7HkwesT']
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ma_ki_chim マキちゃんおはよう🐥
+運動会と言えば最近は音楽はk-popが主流になったね☺️（近所の学校からめっちゃ聞こえるバンタン♪）
+楽しんでね〜！
+マンネちゃん，ファイティン💪🏼
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text When someone shows you who they are….believe it. https://t.co/ZU12VPXKCa
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text We're revisiting one of the best Java 8 features: Java streams. See some of our tips and tricks to using streams here >>  https://t.co/jDZiZUvSYD
+
+#Java #Java8 #JavaTips
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mini47 @KAFKA_Dev Leugen media aanhangen zonder enige bronvermelding is dus slimmer?
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/C1lEZWHZpO
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BfIkko フォローさせていただきました！
+私もシュント推しです💓
+仲良くしてください🥺🙏
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JonesForAR: 4/
+Back in the Spring, we visited with @DerekHuber23 out of Mountain Home, Arkansas on his Arkansas Independents podcast. #…
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Ye sawaal aap nahi aapka guilty conscience pooch rha hai 😂
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Miki_Trent Con el 4
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @marceelias: "The system almost faltered this spring when election officials from a handful of counties scattered across the country fai…
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Nedu_bahdguy: Tutorial: Suya Spring Roll https://t.co/BxmXW53wrZ
+2022-09-30 18:51:27 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @thecryptoc0up1e I’d say you’re extremely pluckable 😘
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Miki_Trent 4
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text that year there were snowflakes dancing in the air, your hands gifted my heart burning warmth and brought about the first spell of spring
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @randlight @LyndaFrench19 Awesome!
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/FzSRvRk9o4
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text we ab to be looking like NPC’s https://t.co/o45cBDKKAA
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @StrayMutant: Well. I am hoping if I wear colorful clothes and show some skin, the spring will come. 
+
+Also, that’s how I went out last…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @wordsbyjjong: “The way each person sees time is different. One wants spring to come, another doesn't.”
+
+cr: cosmicsticks https://t.co/o…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @tanakahisateru: Java と JavaScript の違いはインドとインドネシアぐらい別物と言われますが、例えがまだまだです。実際はカモメとゆりかもめぐらいの違いがあります
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Tassie_Devil_ @JaggerAUS how are the criminals still in power?
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:51:38 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @saturnicks: joe locke es nuestro perfecto charlie spring, parece sacado del cómic. https://t.co/XyN6XTdwmk
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mifujimifuji 好き好き大好きですよ(♥ŐωŐ♥)♡
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @hcglobal22 dance
+high
+our
+spouse
+able
+dangerhill
+out
+spring
+about
+dark
+him
+outside
+square
+above
+daughter
+himself
+over
+stairs
+accident
+day
+hint
+own
+stairway
+acid
+decide
+his
+oxygen
+stand
+across
+decided
+history
+page
+stars
+act
+decimal
+hold
+paint
+start
+add
+deep
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @StrayMutant: How y’all like my “flowery” shorts! 
+
+It’s not the weather for it quite yet, but spring is in horizon! https://t.co/DWZQNZ…
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MollyBr19895426 @KAFKA_Dev https://t.co/2gv0N8yHgo
+https://t.co/qbJm9qJ3o2
+https://t.co/anYBFNpvqD
+https://t.co/YDvGFzalrI https://t.co/gmmznpkF22
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/ru4IYskz6p
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @LegendoftheThe Oh oh! That always really pisses me off. You can't longbow the French/orcs if your bow has lost it's spring!
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/l3Uza5HKvk
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @vfro02: 日本を代表する巨女王様・大迫直子さんの「超肉圧重撃レディー!!　～無慈悲なリングの巨女王～」、XCREAMさんとDUGAさん限定で絶賛配信中です！　詳細は→https://t.co/wtu9cw3Cts　https://t.co/XK75kXdfN9
+#…
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ON VA BANQUER J’VOUS LE DIS https://t.co/6E96zeJyhn
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @SwizzelsMatlow Next in The four seasons of #MakeItMarvellous Is Spring!
+
+You could toss some Swizzels Pancakes, Go on A mallow egg hunt, or even sew a mallow seed in a Mojito and Chocolate planter!
+
+🧵2/5 https://t.co/4cZ8H2rOp5
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Sleeping Panther at East Java 
+by Radu Frentiu Travel Gurus #amazinganimals
+https://t.co/P7dmaaujmd https://t.co/fDBVylBhI1
+2022-09-30 18:51:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Nederlanders stemmen op D’66 is stemmen op je ondergang deze doorgeslagen idioten hebben schijt aan je.Dit weftuig zit er om van Nederland 🇳🇱 een tweede communistisch regime te maken.Alles onder controle zonder eigen wil of stem.Wanneer wordt Nederland 🇳🇱 wakker?#weftuig https://t.co/uNE77wOBCt
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #お月見【#ピグパ ID:PL-0288-1391】@PiggPARTY（▶︎https://t.co/k3j5bGUIta）から投稿 https://t.co/hIVFRWKbjB
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #24thHBDYinAnanday
+Yin Anan #yinyin_anw  @yinyin_anw https://t.co/cjTqu6ZD0B
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @kannbwx Predict a negative feed/residual for a few classes by the end of the crop year! Becoming the new normal in Hard red!
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KAFKA_Dev de 'oorlog' is m.i. gescript om via een energie-crisis de EU fin/economisch naar de afgrond te helpen in het kader gr-res€t
+
+Putin heeft met toest W€F 'zijn' deel van Ukr 
+Het westen blijft geld/materieel pompen in Ukr , Pilot om daar de gr-res€t te implementeren(?)
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MrsMartaStyle1 Beautiful body
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WashTimes: Newly disclosed text messages between Elon Musk and Twitter CEO Parag Agrawal showed that the two men briefly bonded in the…
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Kafka_0666 カフカの壁にフリーライドっ‼️
+へばりつきます。べちょっ🦥
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @physalis1107sky: 久しぶりにこんな撮りを見ました。
+やばいです、貞操観念崩壊ルーティン。
+みんなも学んだ方がいいです。
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nishikorifun: エロい動画でした。。。
+私も気の強い女経営者にバックで突きながらごめんなさい言わせたい、尻を叩きまくりたい、、、
+これぞ貞操観念崩壊ルーティン、必読ですね。
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @haru94_spring 凸凹を多くする
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🚙📻️🎶🎶今日の生放送お疲れ様でした
+番組と朝市の終わりがだいたい同じですね🎶
+天気☀️晴れ気温15℃
+岩手県盛岡より
+皆さま良い一日を～👋😃
+#マイあさ #イマソラ #神子田朝市 https://t.co/F3L1XAh7ik
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Scary_Skullman: Spring time.....  
+#MegaMan https://t.co/1OglNYZrDy
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:51:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @arytadano10: No. 2820 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #…
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @AncaAntoci 😃😅🤣😂❤️
+It’s hilarious how signage confuses by trying to be too succinct & ignore punctuation. 🤪 probably won’t break the bank to spring for a semicolon on the sign or a long lateral line or even an “&”
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @cynthia_hayes Why not right!
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text We’re out at Spring Lake for the annual Battle of the Bayou between Fruitport and Spring Lake. It’s also homecoming for the Lakers. Follow along for updates! https://t.co/dulmGsYVeT
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/WHnpOr1oFl
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @arytadano10: No. 2820 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #…
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text This hurting my eyes for some reason https://t.co/dHENzDGYRS
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text It's like a spring-limited auspicious sign! This means good luck! Everything is sure to go well now! ♪
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MangaMoguraRE: "Bungo Stray Dogs" by Asagiri Kafka, Harukawa 35 is on the cover of upcoming Anan issue 10/12 (2022) Special Edition. ht…
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CoyneoftheRealm Ya think? https://t.co/L88j6qBIFs
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 本日も朝から👍🏻❤️
+10月14日(金)23時59分まで予約受付中！- 美 少年「Spring Paradise ～YOU ＆ 美～」ダイジェスト映像 https://t.co/0YknfliGFq @YouTubeより
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Coperni Spring 2023 simplemente me lleva a Alexander McQueen Spring 2023 ✨ https://t.co/HlFMA55Bh7
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @laurenevemay @CHVRCHES I love your song Lies and Leave a trace. 🌹 💕 Make more like that. 😊 Even Clear blue song. Keep up the great work!
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🔴China Spring vs Cornerstone Christian🇺🇸🏈High School Football Live
+📺🇺🇸Watch Live ᴴᴰ ► https://t.co/fsKmLBzHCu
+The China Spring (TX) varsity football team has a home non-conference game vs. Cornerstone Christian (San Antonio, TX) today @ 7:30p.
+2022-09-30 18:52:05 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KROWTEN_CYM: #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Py…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KROWTEN_CYM: #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Py…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KROWTEN_CYM: #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Py…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KROWTEN_CYM: #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Py…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #ICYMI #FreeDownload this #InfoQ book & learn about #DynamicProxies – a tool that can save thousands of lines of repetitive code with a single class: https://t.co/2zstj9i6Uq
+
+The book is for intermediate / advanced #Java programmers who want to get to "guru" status.
+
+@heinzkabutz https://t.co/m1FRCoySP3
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BerneLarry: Spring in Lebanon🌳🌲🌿 https://t.co/m0eF92A764
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Ericaslastborn: What is #SoftLife without Food????? 
+All for y'guys joor❤ E for Energy 💪💪 Well done guys🥳🥳🥳🥰🤩 
+Scorp's bio is still ver…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @B1ast_Man: Aight, HERE is burst man. He and turbo man and spring man are my favorites from mega man 7 https://t.co/lKg7cmZVVe
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @berryberry_69: 【譲渡/交換】あんスタ テーマスカウト缶バッジ 2021 SPRING idol
+
+譲→鳴上 嵐 10点
+求→定価＋送料 (交換の場合は同種友人分: 燐音🦊 or 固定ツイートマヨイ、千秋、イベコレ忍)
+
+※枠交換白紙分になります※
+初回リ…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Schultiiiooo_ Ich bin so traurig! Wie sehr hab ich mir das wieder gewünscht! ☹️
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @DrPopCultureBG: Mark Twain in Nikola Tesla’s Lab holding Tesla's experimental vacuum lamp in Spring 1894. The figure in the background…
+2022-09-30 18:52:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text El uno o el tres, pal fresco, pa la puesta e sol https://t.co/hjv9BrEt7Z
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/4Cei8YbZgU
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @LiekeFvD: Daar heb je helemaal gelijk in. De hypocrisie spat er vanaf. 
+
+ D66 is de meest gevaarlijke partij voor Nederland.  Op alle f…
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @theemmamag gawddamn that ass
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/ZZO4Hrf8ht']
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @SplatoonJP: そして、「Spring Fest」に合わせた特別なギアを、Nintendo Switch本体のゲームニュース「イカ研究所通信」を通じてプレゼント。
+今回は眩しい春の陽射し対策のサンバイザーと、ヒメとイイダ監修の特注春カラーのクツを用意した。
+まだ…
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text not a big match, this is a bitch match. east java is green! #PersebayaDay
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text The floor is cold underneath Tommy, like it always is. He hadn't been wearing warm clothes when he was taken, just at the tail end of spring, and he regrets it now, shivering in a baseball shirt and khakis.
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #NG 📰 Obituary: Gregory Alan Blanford, 53, Holy Cross 
+
+Gregory Alan Blanford, 53, of Holy Cross, died Thursday, Sept. 29, 2022, at Spring View Hospital. He was born Nov. 21, 1968, in Nelson County. He was an employee of Canton Cooperage in Lebanon w… https://t.co/vCdDHZ2Gjh https://t.co/5Z75arBDlX
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @minecraft_fra: Une incroyable seed fonctionnant sous #Minecraft Java & Bedrock (1.18 - 1.19) et qui porte le nom de "Oeil de Minecraft"…
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JapanTraCul: Tochinoki hot spring, Higo, by Kawase Hasui, 1922
+
+#shinhanga https://t.co/tFyrwQA2N7
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/4rF6CM2U0W
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @au_spring Eu vi tbm!!! Vou me atualizar de tudo, só to esperando esses feriados aí
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @imnodjmusic @danielkallan @MarkGerretsen Straight to big oil.
+
+Ag EWE: Heat, a lack of rain and erosion may dramatically stunt this year’s crop. https://t.co/kvGcP8Nz71
+2022-09-30 18:52:23 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text apart, to look guilty. Tim just flushes a bit, apologizing as he climbs off Bruce’s lap, settling back into the larger man’s side. The hungry look dims on Bruce’s face but it’s still there as he looks down at Tim. Dick can still see it. He can still see the barely concealed want.
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/aHvpU8NaiD
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text little groan audible from the back of Bruce’s throat. He’s not— he’s not that far away, he can hear the wet slide of their mouths against each other.
+
+“Listen, I gotta head— oh gross!” Jason groans, coming back into the room. They don’t even have the decency to spring
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @incredibleyam: ถ้าถามว่าอะไรคือสิ่งที่ทำให้อยู่กับTRINITYได้นานแม้ในช่วงที่หายไป คงเพราะความตั้งใจและความชัดเจนกับสิ่งที่กำลังที่ทำอยู่…
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 今日は和歌山のスパイス食堂java javaさんでコラボレッスン
+
+テーマは中華、参加者は11名 
+
+Neoベジタリアン料理は「精進とんこつ風スープ」と「人参みその生春巻き」を作ります！ https://t.co/LP91rby4VV
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Eunhae0404_1510: Donghae is hyukjae family too 🥺🥺
+
+🐒: I think Bom and Bori recognized me as a family.When I go home, it's really nice t…
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @holly: Frank has a spring and a box and is having the time of his tiny wobbly life https://t.co/xGiemeNG7z
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @DiemTF @OhNoItsCaleb New guy has the flip up axle bazooka. I mean I'm sure it's not spring-loaded but it's something. I'm not keen on his empty shins though. Kind of prefer last one that came out, annoying kibble and all.
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text If your involved, it's a Little Something.   #chicagotonight is unwatchable since you started.  I'm sure you're not telling black kids to finish high school and then seek some type of regular employment or continue on with their education.
+
+@wttw 
+Chicago https://t.co/NiWn61wCqQ
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BEMUI_Official bem bangsat ... dukung ini kalau kalian memikirkan rakyat https://t.co/YL4YKCVTUN
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mrmiley @EdwardHubert4 @DickDurbin Ah yes, well those rules are only for other people.
+
+Because it’s perfectly fine when they do it…
+
+Not dodgy at all, no.
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Stretch_TB @dylanmalone @Drewzilla Just makes me want to go to a game so bad… and I gotta wait till spring!
+2022-09-30 18:52:31 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Kris_Willis Honestly don’t hate it, he’s struggled at times this year but I think with an off-season where he’s not rehabbing and where they can get an actual spring training in he can still be a good part of the rotation
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Buddhist Monks in Myanmar sent prayers for the immediate restoration of democracy and for the fallen heroes of Spring Revolution today.  #2022Sept30Coup #WhatsHappeningInMyanmar
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @NYGELSARTORIAL: Video Vixen Jeannette Chaves wearing
+Trosman Churba Spring 2003 RTW https://t.co/axelbvjQpe
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @RCCSilva_ @erickwendel_ Ultimate Go da Ardanlabs
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Braves Hopefully another full spring training since the broken leg can help
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Miki_Trent 4
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @osomhenjr: See police man wey carry gun self dey run for em life🤣
+
+Snapchat Congratulations Chizzy Bemi Kiki #MLLE Shettima Akon Rufai…
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Bella Hadid durante el cierre del desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/SRqwgXWtSc
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text WEDNESDAY ADAMS in THESE PLEASE!!
+
+Yohji Yamamoto Spring 23 RTW https://t.co/I9S4ZGlzB2
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @AimeeDelValle_: Good morning all!!! ☀️❄️
+
+I’m dressed like a Parisian in spring and this piece DROPS TOMORROW! 💃💃💃👏🙏✊😆😃 https://t.co/WK…
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @24tog How many days until the airport maintenance people are making snow money?
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @cosmejuan: En este universo despiadado que a veces son los grandes aeropuertos quiero agradecer hoy al señor que hoy me rescató en Bara…
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/LIrakmJUQH
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @TracyBethHoeg: Sad to see CA squander resources like this. Scandinavia dropped school-based covid testing last spring bc it's not evide…
+2022-09-30 18:52:41 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Nor do they know that 9-11 was a CIA psy-op, the Patriot Act was written about 19-20 years earlier, and that WTC controlled demolition was planned in David Rockefeller's Manhattan office beginning in spring 1967..5 years before the towers were completed. Yes. https://t.co/OajTSy4h0S
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 10月にはいましたね。今月もよろしくお願いします(♡ᴗ͈ˬᴗ͈) https://t.co/qQh2uGorWL
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @everhuizerstijn: Van de week in een verwijderde tweet van KAFKA:
+PEPPIE VAN HOUWELINGEN SLOOPT boerenwijsheid, en krijgt daarvoor een L…
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @CaseyJ_516: 🥵Mets giveaway alert🥵
+A signed Francisco Alvarez baseball
+Got two at PSL this spring. Giving away one
+
+Rules to enter:
+Foll…
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @aoi_koyama06 おはよぉ
+なんだ、古山さんじゃなくなったのか(・ε・｀)ﾁｪｯ
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/belqF8YpwI
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @NWA_JA: The road from Stony Hill to Toms River in St. Andrew is being impacted by a landslide in the Golden Spring area. The landslide…
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Beautiful Collection ⁦@victoriabeckham⁩ Spring 23 #PFW  https://t.co/QBNFoJyJYl
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/SmxlxLNfyj
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @DonHoffa: NEW DROPS #HOFFAATME https://t.co/WtTkNRw4c9
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 同为大一新生，有人已经开始准备实习了
+而我还在啃java
+真的不能在浪费时间了 https://t.co/VVZMFm5pSf
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:52:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ChilmaidStuart @retrofootballnw @sid_lambert @FootballInT80s Metgod scored the winner at Forest after we were 3-2 down near Xmas 84. I think Nigel's was a header at OT after we were 2-1 down a couple of seasons later. Seem to remember Colin Walsh scored the other two. He was a good player that tends to get forgotten. Great times mate!
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @mvrquise_: 2022 in a 2023 Benz all done 100% under business credit, this is my second deal this year alone. FYI: My business credit cou…
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/FVJBhdtL6z
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @maliengus4ever @KBMalarik @USATRUMPMAN1 That doesn't tell anyone much. Is it a level 2 charger? Level 2 is 240/40 which is 8800 watts. That's a $22,000 system. Does it have storage?
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Own a t-shirt that can launch a cult tech drama film!https://t.co/NiG9dSZYYa#BTC #ETH #SOL #ADA #FLOW #BNB #XRP… https://t.co/Xse6Q7yJtb
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ma_ki_chim マキちゃんおはよう😃
+マンネちゃん、小学校最後の運動会開催してくれて良かったね😊
+しっかり見てあげてね💕
+10月になったよ！
+楽しみだね〜😆
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Miss you so much, the spring is in my heart! I call you in winter, #反差婊 #红绿灯 #1对1 #乱伦 #熟女 #女m #少妇 #校服 https://t.co/2i21sHgGaJ
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ArleneFloro And I felt it immediately... I walked in with a spring in my step and ting https://t.co/LPLG2JJuXA
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/w7swyLFC9T
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MarkZuckerman thx Mark
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @PaulChi25292926 @Lulu_cowboys Interesting…
+2022-09-30 18:53:01 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @QueenBeeSunnyS: Hi! Did y’all know I have a couple other ocs as well? They are Confetti Fall, Spring Fling, and Pastella de Prisma! htt…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text OWASP API Security Top 10 2021 with Java Examples | Free Udemy Course https://t.co/ZVOSm5aVZx 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100DaysofCode
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text WebServices testing (RestSharp + Postman) Complete Guide | Free Udemy Course https://t.co/3ob1A1phmB 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100Dayso…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text A-Z Dijital Okur Yazarlık - Google Destekli Uygulamalar | Free Udemy Course https://t.co/wYWuYgwCpr 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100Daysof…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Functional Programming + Lambdas, Method References, Streams | Free Udemy Course https://t.co/WignipcaJx 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100D…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Secure coding in Java with Web Application Examples | Free Udemy Course https://t.co/oyWR3fQoSS 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100DaysofCode
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Object Oriented Programming - Basics to Advance (Java OOP) | Free Udemy Course https://t.co/9BTJegjcXg 
+
+Follow @programmingBuddy
+#Development #WebDevelopment #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS  #Programming #Coding #100Day…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Che3der ORGULHO, VOAAAAA
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Victori85091561 Garden range list spring writer couple red describe.
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @kyzcralotSxaM sometimes i think i’ve woken up, and i sense a sort of nondescript but imminent threat which requires me to spring out of bed, but i can’t quite get myself to move. but it only ever lasts a few moments. is this what people mean? maybe i’m just good at overcoming it
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @girIdoIl: coperni spring 2023 rtw https://t.co/0TMrNUo0MW
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KravTao: SPRING GAME #Giveaway 🎁
+
+Try to win one 1st GENERATION tree 👀
+(not available anymore)
+
+🪴  Genesis Bonsaï ($80)
+
+✅ Follow  @Kra…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_dosukoi: いこおき　おき誕ネタ(1/2) https://t.co/Fa4NEIe9Dh
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @levendowski 😍😍😍 awesome!
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @laurenevemay: Forgot to post about the Every Open Eye release anniversary at the weekend so please accept this video as a belated happy…
+2022-09-30 18:53:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: OWASP API Security Top 10 2021 with Java Examples | Free Udemy Course https://t.co/ZVOSm5aVZx 
+
+Follow @programmingBud…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @caecilia1003: Aprils have never meant much to me, 
+autumns seem that season of beginning, spring.
+
+              —Truman Capote
+
+New Yo…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: OWASP API Security Top 10 2021 with Java Examples | Free Udemy Course https://t.co/ZVOSm5aVZx 
+
+Follow @programmingBud…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Functional Programming + Lambdas, Method References, Streams | Free Udemy Course https://t.co/WignipcaJx 
+
+Follow @pro…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @LDWF @LOUISIANA_DEQ Any official word on these claims about Clean Harbors?
+https://t.co/rcbMwHRSsv
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: WebServices testing (RestSharp + Postman) Complete Guide | Free Udemy Course https://t.co/3ob1A1phmB 
+
+Follow @program…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: WebServices testing (RestSharp + Postman) Complete Guide | Free Udemy Course https://t.co/3ob1A1phmB 
+
+Follow @program…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Functional Programming + Lambdas, Method References, Streams | Free Udemy Course https://t.co/WignipcaJx 
+
+Follow @pro…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Secure coding in Java with Web Application Examples | Free Udemy Course https://t.co/oyWR3fQoSS 
+
+Follow @programmingB…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Secure coding in Java with Web Application Examples | Free Udemy Course https://t.co/oyWR3fQoSS 
+
+Follow @programmingB…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_nwinter Tori ten seconds later: https://t.co/HS6u3tjXyZ
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Object Oriented Programming - Basics to Advance (Java OOP) | Free Udemy Course https://t.co/9BTJegjcXg 
+
+Follow @progr…
+2022-09-30 18:53:09 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @emsteck You're terrible at recognizing a setup, and it's because you're a bad liar.
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @programminbuddy: Object Oriented Programming - Basics to Advance (Java OOP) | Free Udemy Course https://t.co/9BTJegjcXg 
+
+Follow @progr…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @FarlowRick: Here in South Charleston for a matchup between the Black Eagles (0-4) and Spring Valley (4-0). Kick scheduled for 7:30 p.m.…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: Bella Hadid desfilando para Victoria Beckham Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https://t.co/3XuHe32…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @sillyratitas: willow  the  little  spring  goddess 🌷💗 
+#tohfanart #tohseason3 #toh https://t.co/Sodzhm8rMJ
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @bhadidarg: Bella Hadid durante el cierre del desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/zi0fO9UW7s
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @bejaha: I’m a native Texan and no spring chicken. I’ve never seen a candidate work as hard as Beto. He wants to help all Texans but has…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/4wOgN1UbvV
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Miki_Trent 4!😍
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Coperni Spring 2023 simplemente me lleva a Alexander McQueen Spring 1999 ✨ https://t.co/FlR4udXWh4
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Lily_Spring_ はるさん、おはよーです！
+
+今日もいい1日を٩(๑>∀<๑)۶
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: Bella Hadid desfilando para Coperni Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https://t.co/ovhJ9rs70T https…
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KravTao @spring_gamefi @otterky0621
+@MichelleRehwald
+@LunaNg15
+2022-09-30 18:53:19 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Cernovich I realize that you're at the bottom of the list because, ultimately, you're just not that important, but still, I can't wait until your seditious ass is in prison. Maybe you should gather up your rubles and slink off to Russia now.
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BangBangAIIDay_ bitch shut the fuck up
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: Bella Hadid desfilando para Coperni Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https://t.co/ovhJ9rs70T https…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @UnaiQuijada: Zoey Deutch was looking flawless in Michael Kors Spring-Summer 2023 while attending the Clooney Foundation For Justice Ina…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Victori85091561 Garden range list spring writer couple red describe.
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @rockhand_spring おはようございます。
+朝市いいですね〜
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: AND SHE IS THE MOMENT! Bella Hadid desfilando para Coperni Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https:…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Knurg1 O! De tolk van Java van Alfred Birney, De schaduw van de wind van Carlos Ruiz Zafon.
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @roya21042019 @KAFKA_Dev https://t.co/lBlkEbkGyU
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @posiyuukibot: It's like a spring-limited auspicious sign! This means good luck! Everything is sure to go well now! ♪
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BerneLarry: Spring in Lebanon🌳🌲🌿 https://t.co/m0eF92A764
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Java_jigga @Carlists4Pete His third book is more interesting. He present a coherent  phenomenology of current evolution of the  reactionary mind.
+2022-09-30 18:53:30 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BangBangAIIDay_ ur not funny rat /j
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JAVA_ANIMAL: イラスト内の文章は、森映子さんの著書「増補改訂版 犬が殺される」（同時代社）の中で紹介された獣医学部の学生（取材当時）の証言です。
+
+散歩やスキンシップ、仲間同士の遊びの時間すらも十分に与えられないまま、実習に使われて一生を終えた実験動物たちが…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Mood: 🤯  🤩 https://t.co/7ZkWbcjVDd
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Coperni spring 2023 https://t.co/koKtHNJqic
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/CiiMBFU7Ep
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Bella Hadid en el desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/VV7INFGRbs
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JapanTraCul: Tochinoki hot spring, Higo, by Kawase Hasui, 1922
+
+#shinhanga https://t.co/tFyrwQA2N7
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JackCarrUSA: Title reveal video for book six dropped this week. It’s called ONLY THE DEAD. It hits shelves this spring. Every one of my…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @iangorayb Omg I’m sorry 😩💔
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theirondemon: November 11th in Jeffersonville Indiana
+1416 Spring St.
+Come witness Histo...a rebirth!!
+
+Talent and match announcements…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/00c4rXGnst']
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @AnaPons65425552 Beautiful
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mifujimifuji えっ…何を…！！？
+2022-09-30 18:53:48 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/cJjtNJhD75
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ウシとウミウシみたいなものか https://t.co/KGB1aLxeGy
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @judahrhodie Sir, that is quite the compliment given your background!
+
+I rarely buy calls or puts
+
+BTU is having a huge year as you know - I've also traded it well
+
+Caught the best run of Oil in the Spring
+
+Caught the best shorting since Mid August 
+
+UVXY is my number #1 pos & up quite a bit
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @GigiHadidInfos: Gigi Hadid walking for the Victoria Beckham Spring Summer 2023 fashion show in Paris. Photographed by Anum. https://t.c…
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @seigihashimoto: [commission] D&D character, spring and winter type
+#TRPG #DnD #DnDcharacter https://t.co/FbhKDwTqsU
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/XyVT7G1rM6
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Lily_Spring_ おはよ！よろしくねੈ✩‧₊˚₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/uzcRHscgIX']
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/iFdETqamzw
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @TracesofTexas: Private Elvis Presley at Fort Hood in the spring of 1958. https://t.co/m2DZGOKOhb
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Plumalicious @viewbug https://t.co/ELXmnmorMO #photography #photo #nature #naturephotography #naturephotos #NatureLovers #Fotografia #写真撮影 #фотография #PictureOfTheDay #PicOfTheDay #Colorado #Spring
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Overhills vs Western Harnett || North Carolina High School Football Live Stream
+🇺🇸🏈JOIN NOW WATCH LIVE  : https://t.co/34OUl2Rs9G
+The Western Harnett (Lillington, NC) varsity football team has a home conference game vs. Overhills (Spring Lake, NC) today @ 7p.
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Al fin el semen de los pajeros sirve para algo https://t.co/JMw0aNH5uO
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Realizing i haven't been unemployed since spring 2008 https://t.co/mqrfOkeON7
+2022-09-30 18:53:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @makz_pech: Ahora sí les va algo técnico de esas artes que ya se están perdiendo, les voy a contar cómo encontré donde java de IBM en Li…
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/qPb5Hidwk1
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text spy x family the best anime of the spring and will be the best anime of the fall chainsaw man gonna have to step back
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @OGMidnightsgal: @wxiiweather @WXII Ian arrived at my house early. Around 5 pm this giant pine tree fell from my yard onto the neighbors…
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Next chapter in Kafka’s Brexit…will they/won’t they? This book is exhausting and kills people. https://t.co/cKz1Ubcqec https://t.co/MasWPOIVa1
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JapanTraCul: Tochinoki hot spring, Higo, by Kawase Hasui, 1922
+
+#shinhanga https://t.co/tFyrwQA2N7
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 同时回顾了下这半年我的个人发展目标，其中有个学Java，我说没用不学了（现在后端用Python）。半年前三个senior离职，我和一个新techlead抗下所有project deliver，我把这个故事告诉了新上司，也告诉他说现在我team完整了我就有时间搞学习了，我需要software coach，他说：ok下周见面详聊
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Microservices 💯
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @PrideRTV @paultje2303 @mini47 @KAFKA_Dev Dat is uw probleem,  sorry maar ondertussen is al wat ik weet sinds maart 2020 wel uitgekomen, we spreken mekaar binnen enkele maanden
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/G7rvRdrWKJ']
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text whiteist BROADCAST @j4cky340 @SevenDiary_eth @NacrulGiveaways @jiqirenwuhao1 @NFT_java @AdityaTantra82 @sibehlucky @JulieMiwa @Solveim1 @nft_ssijji https://t.co/nZc6R6MWVk
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @laurenevemay: Forgot to post about the Every Open Eye release anniversary at the weekend so please accept this video as a belated happy…
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:54:07 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング:21位❗(今週の新着)
+
+「■CAMP LOGOS モンスターパーカー  (サンド)  L 33209602」
+メーカ:ロゴス
+
+価格:¥17,000✨
+🔥売り切れ間近🔥(07:54)
+
+https://t.co/FjH5WhLBTl
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング：21位❗(グラフィックボード)
+
+「グラフィックボード Radeon RX 6500 XT MECH 2X 4G OC Radeon-RX-6500-XT-MECH-2X-4G-OC」
+メーカ:MSI
+
+価格:¥21,231✨
+🔥売り切れ間近🔥(07:54)
+
+https://t.co/b6CGP0c0xB
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @theemmamag 😍😍😍😍
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @LisaLakerFCHS: @FTCSCFCHS Creative Writing is honored to be a recipient of @INHumanities @INAuthorsAwards & host poet @chanteljmassey f…
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Klasemen Liga 1 2022 Setelah Persikabo Bekuk Bali United: Serdadu Tridatu Rawan Tergusur https://t.co/zl3hYhKKxx
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @NocturnalDesign @DrGJackBrown I would love to provide an answer for the millions asking! June & July are off and unpaid. I have another job for that time. Christmas, Fall, and Spring are off, but unpaid. There aren’t enough subs so teachers cover for each other during their prep (unpaid). Hope that helps!
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @aufgehendeRest In a certain sense yes: the evil is also good because in Leibniz it is like a spring that make snap a better good!
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: Jisoo arrives to @Dior’s spring 2023 show in Paris during #ParisFashionWeek. This season, the star-studded audience was…
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ItsSince79: Pessoal, qual o melhor material gratuito de estudo em JAVA que vcs conhecem? E pago ? Muita gente me pergunta e eu aprendi…
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Pannacotta_mm もりあいさん、おはよーです(*>∀<)ﾉ))★
+いい一日を🍀*゜
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text MARNIE SWEEP https://t.co/HkmrQYqTNP
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @tanakahisateru: Java と JavaScript の違いはインドとインドネシアぐらい別物と言われますが、例えがまだまだです。実際はカモメとゆりかもめぐらいの違いがあります
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/RqPvHyJFL6
+2022-09-30 18:54:20 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @realjaclynsmith https://t.co/biCmKKLVdV Lisbon Lion @tirnaog_09 ·16h
+
+Celtic and Dundee in that halcyon spring of 1988. That centenary season was something those of us old enough to remember will never forget. 1988
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @SKTaylor_: “The water that I will give him will become in him a spring of water welling up to eternal life.” 
+
+The Holy Spirit is a con…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_voice_ 💀…(もうこれ以上褒められたら、骨までとけちみーます…)
+
+💀…(僕ァもう…エアルさんに褒められ絶命した、ただのしかばねでぃすので)
+
+💀…(ミフジさんといっぱいイチy…仲良くしてくだすぃ)
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @DanikaXIX https://t.co/mQx3irrlkL
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @galactamelanin: roberto cavalli spring 2011 https://t.co/JhNpEsq02p
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Want to turn into a pool of spring water, melt in your body ＃成都 ＃成都洗浴 ＃成都全套 ＃成都水疗 ＃SPA https://t.co/To32gxxGNN
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ValueAnalyst1: $TSLA Robotaxis will start commercial service with its existing fleet by Spring 2023 in Austin and San Francisco. Nation…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @DLstrokum: Ay bro wut happen on Spring break in Miami stay in Miami 🥷🏾 sheesh😮‍💨 dat hendo had me n broz on 😈time⏰💦🍑🍆💥shid left my btch…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Not true. FYI the time off is not paid, nor are the countless hours that are not recognized to ensure quality time with the students. Numerous educators work second jobs due to lack of receiving a living wage. https://t.co/i5pOaWnBzy
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Christoph_Esq Too old for what,?? You’re a spring chicken 🐔 😏
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/el2nZQWl6D']
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ToplessTopics But they are delicious. Maybe build a planter, or employ some pavers? My dog digs. I’ve had to fill
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_tinder: Tinderで前マッチしてたが中々アポれなかった某人気女優似経営者との弾丸アポ。直前に会ってた男がつまらんすぎて抜け出してきた男舐めてる系の女で最初苦戦するも  #貞操観念崩壊ルーティン でS〇Xのハードル下げたら見事崩れて即ハメ🐒
+
+気強…
+2022-09-30 18:54:29 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Tassie_Devil_: It's a nice Spring day here in Melbourne.
+
+One is reminded of when our govt granted picnic allowances this time last yea…
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @osomhenjr: See police man wey carry gun self dey run for em life🤣
+
+Snapchat Congratulations Chizzy Bemi Kiki #MLLE Shettima Akon Rufai…
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @girIdoIl: bella hadid for versace spring 2023 https://t.co/0PsVQ6lrWh
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Sill311 @KAFKA_Dev Allerlaatste noot vande pagina die je stuurde. Maar geen woord over huidige verblijfplaats. Apart.
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Bella Hadid dejando el desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/NKYhOSuGLx
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text *unlike java, python allows elements inside lists to be of different variable type
+*accessing list elements: variable_name[index] where index=position-1
+*can access multiple elements: variable_name[from:to] the parameter is not index unlike in most situation.
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @SmashFlashDevs: It's time for another #SmashFlash Screenshot Saturday. Today we're gonna check out a small updated animation in the upc…
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @saturnicks: joe locke es nuestro perfecto charlie spring, parece sacado del cómic. https://t.co/XyN6XTdwmk
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text *you can easily override the keyboard
+*.extend() function/method can merge 2 lists
+*.append() adds an element to the end of the list
+*.insert(index,element)
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/BaQywL7aIA']
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @SwizzelsMatlow Summer follows spring #MakeItMarvellous!
+
+Head down to the beach for some seaside fun and enjoy a SwizzelBocker Glory!
+
+Or grab an apple from the orchard, and make a summer fruit tartlet, Mallow style!
+🧵3/5 https://t.co/vhG6CkWjht
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @zbetty_spring 🤣🤣🤣
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Victori85091561 Garden range list spring writer couple red describe.
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JohnWascavage: I love the original choreography from Spring Awakening so much 😭 🔊 https://t.co/R0g6A5jEsH
+2022-09-30 18:54:35 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @hisui_spring ひすい！ただいま〜
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nadinbrzezinski: borders of Ukraine in 1991. He believes that the liberation of Crimea from the occupiers will take place "by the end o…
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/TA61RnOljK
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @NagisA_13_12_03 こちらよろしくだよぉ〜(*ฅ́˘ฅ̀*)♡
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/0Nz6T7pjW2
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Cobalt Blue Glass Bunny Rabbit Shelf Sitter, Vintage Bunny Paperweight, Easter Spring Gift https://t.co/M3pKPf0A9Y #etsyTrending #TeamUnity #TMTinsta #Halloween2022 https://t.co/F5yRjOADYT
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @melonconsumer: CW// bullying, homophobia, suicide
+
+Gao Yan, username Birdy on Douyin, was a dancer and student at Shangdong Arts School…
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MrKingArtist @HeadofPunk @opensea just minted @VladislavGlebo4 @NemcenkoDenis @Aaaaaaa87971180 @MihailK91435753 @daveed_bankz @Mariann00899618 @maybach664 @anaekwe_greg @PeterCEmmanuel1 @Samuelnwaogu5 @PoppyDora3 @PSejidov @spring_motley @VTaumov https://t.co/Sry0Kg0yB4
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WHR: Can 🇯🇵 galloper, DO DEUCE (ドウデュース) spring an upset in the Prix de l'Arc de Triomphe? 
+
+#競馬 | #日本競馬 | #ドウデュース | #QPAT | @JRA_WorldR…
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @anuja_java Congratulations!!!
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ArteLeonida: 🍁💛
+Autumn Is A Second Spring When Every Leaf Is A Flower. 
+Albert Camus
+🍁💛
+Every moment 
+Every Season has beauty
+✨
+Happy d…
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ADriftingNerd Time flies!!  Remember that fun 1995-96 Sonics run too?  We had a fun Fall 1995 to Spring 1996, with the Mariners and Sonics!
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KAO_YinWar: To.Yin
+✨Wishing you a happy birthday, a great celebration, and a successful year.May all your dreams come true✨
+Cherry blos…
+2022-09-30 18:54:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ¿Quieres aprender de tecnología y lenguajes de programación?
+
+Si te interesa, suscríbete a mi canal youtube.
+
+https://t.co/CLMHJTxhRN
+
+#Programacion #Java #Informatica #Objetos #bbdd
+
+#SiguemeYTeSigo #SiguemeYTeSigoSeguro #D1664578478
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kdil4ra: als 2023 niet goed vr me is ik spring van brug nishn
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @siirsozu: "Ölümün olduğu bu dünyada, hiçbir şey çok da ciddi değildir aslında..."
+
+Franz Kafka
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Me_llaman_jota: CablePorn 🥰
+This setup 😍
+#setup #gamer #news #NFTs #Robot #drones  #business #programming #AI #Linux #HTML5 #Coding #te…
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @haku062 たぶんjava版ですよね🥲
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @legitngnews: Erica has continued to surprise Nigerians with her multi-talents!
+
+The former reality star us trending after she made a so…
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Me_llaman_jota: CablePorn 🥰
+This setup 😍
+#setup #gamer #news #NFTs #Robot #drones  #business #programming #AI #Linux #HTML5 #Coding #te…
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Um mistério infinito chamado Kafka / Valor Econômico https://t.co/flSDaHukYX
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MarkyV wow...nice view
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WHR: Can 🇯🇵 galloper, DO DEUCE (ドウデュース) spring an upset in the Prix de l'Arc de Triomphe? 
+
+#競馬 | #日本競馬 | #ドウデュース | #QPAT | @JRA_WorldR…
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/3MBUqtvPcP
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text – 7 "tips clave" antes del Code:
+1.Historia y Evolución 
+2.Objetividad y Funcionalidades
+3.Caracteristicas(estructura) ,Compatibilidades
+4.Pros y Contras
+5.Plantearse Bien Organizados los Temas
+6.Proyecto a Corto/Largo Plazo
+7.Mercado Laboral https://t.co/CTXjYjxAYf
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:54:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @GoForGrubes2 Good for you!  Congrats.
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Me_llaman_jota: CablePorn 🥰
+This setup 😍
+#setup #gamer #news #NFTs #Robot #drones  #business #programming #AI #Linux #HTML5 #Coding #te…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/VmefdBsCOp
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @GeneraalPardon2 @KAFKA_Dev Lijkt me wel wat: Kafka naar Guantánamo Bay. Ook Spaanstalig…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @dreamworksjobs: Applications for our Spring 2023 Internships are coming soon! Stay tuned next week for exciting updates 😎 
+Check out ou…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yarotrof: To be fair, he was a convicted bank robber and was in prison in Ukraine before becoming a hero of the Russian Spring in 2014.
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Ik zaag al kkr 4 jaar https://t.co/3kgndDGwU6
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/SLBSq3Weps
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @saturnicks: joe locke es nuestro perfecto charlie spring, parece sacado del cómic. https://t.co/XyN6XTdwmk
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @FOMOsAMOFO: PSA regarding @GameStop…
+
+Always check to make sure that the sales associate hasn’t quietly added on the 1-year game warran…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text this is too much 😭 https://t.co/vlIXMgMh57
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/KileHD1tdP
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ランキング:1位 「電池・充電池」 (07:55)
+
+EGT3T4P40X1
+
+価格:-🔥
+
+https://t.co/aEJnHebMN8
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @CNNPolitics: Despite disavowing White nationalism last spring, a Trump-endorsed GOP congressional candidate gave an interview to a Nazi…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:55:11 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Teten Akui Bantuan UMKM Belum Cair Karena Anggaran Cekak https://t.co/CnY7OO1rF8
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ElainesWorld424 @RealDeanCain Nothing near me either, I'm near Detroit. Though I think he MIGHT be coming to Grand Rapids in the spring but I'm not 100% sure on that.
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @everhuizerstijn: Van de week in een verwijderde tweet van KAFKA:
+PEPPIE VAN HOUWELINGEN SLOOPT boerenwijsheid, en krijgt daarvoor een L…
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @SVNCHlLD: Beverly Peele, Thierry Mugler Spring/Summer 1991 https://t.co/bXJUxkuiQN
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JulieParker144: Sleeping Panther at East Java 
+by Radu Frentiu Travel Gurus #amazinganimals
+https://t.co/P7dmaaujmd https://t.co/fDBVyl…
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/GJ2amsJmh7
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Isso aqui foi 🤯🤯🤯 https://t.co/AhGzSWdLrw
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/VH1ni5vVz9
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/vraQ90EBj1
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/tD2Tw1ok9v
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @chrt_spring 방장의 3년묵은 똥
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @hisui_spring 頑張れ！(๑ •̀ω•́)۶ﾌｧｲﾄ!!
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Want to turn into a pool of spring water, melt in your body ＃重庆 ＃重庆洗浴 ＃重庆全套 ＃重庆水疗 ＃SPA
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JohnWascavage: I love the original choreography from Spring Awakening so much 😭 🔊 https://t.co/R0g6A5jEsH
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @DesignationSix: Photo effects by DesignationSix
+
+https://t.co/fy5rBZ4OmU https://t.co/uHncKPgTXg
+2022-09-30 18:55:21 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/3jZphHgE2v
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text it seems that here mr Sadeghi is speaking to/at his fellow petitioners against @AlinejadMasih. i agree with him. it was mis-timed, way out of the main focus (being the people of Iran), and a waste of their own reputation. #IranProtests2022 #IranRevolution2022 https://t.co/ctjXIIofIl
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @bhadidarg: Bella Hadid durante el cierre del desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/M2S5He09hk
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text IRISH SPRING GREEN GREEN NIGGA !!!! https://t.co/UwsV6QiYhf
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MadameGilflurt I had some fluid removed after my cataract surgery, but nothing ever injected into ...  best wishes!
+
+My favorite spring wildflower. https://t.co/jMcvCyxAJ7
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/PmhIBINsng
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: i feel a little bit sick right now i feel totally normal https://t.co/ZkhixWAtgx
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @emsteck: NEW: GOP congressional candidate Joe Kent gave a previously unreported interview in June to a Nazi sympathizer and White natio…
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text no cause i just realized that if that skz player/record album actually comes out this year then the setlist for those tour dates in spring could be INSANE
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text wdym we might get to hear streetlight, close, cause i like you, alien, chance, little star, etc LIVE 😭😭
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/R6iUFkxBZT
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Anticipation @viewbug https://t.co/ULyJ84VEyA #photography #photo #nature #naturephotography #naturephotos #NatureLovers #Fotografia #写真撮影 #фотография #PictureOfTheDay #PicOfTheDay #Colorado #Spring
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @TIMETO_Chenleee: 191001 OYF Hot Spring World https://t.co/EbLOJSQVsK
+2022-09-30 18:55:28 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @damareizuki: i am in the middle of imagining katsuki as hades while he threw tantrums cause persephone izuku has to leave for the entir…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text VOTE GROOVY https://t.co/pp4WU3c60i
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ma_ki_chim マキちゃん💜久しぶりー！
+お天気良くてよかったね✨
+いっぱい応援してきてね🤩
+うちも来週だぁ💦
+1つ1つ行事が終わっていくのなんだか寂しい…🥺
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KAO_YinWar: To.Yin
+✨Wishing you a happy birthday, a great celebration, and a successful year.May all your dreams come true✨
+Cherry blos…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MangaMoguraRE: "Bungo Stray Dogs" by Asagiri Kafka, Harukawa 35 is on the cover of upcoming Anan issue 10/12 (2022) Special Edition. ht…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @girIdoIl: coperni spring 2023 rtw https://t.co/0TMrNUo0MW
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: can we talk about the way he SMILES IN THIS SCENE i feel ILL https://t.co/fa1NUPL4ke
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KRobOffice @TurtlesongFarm Each other season is a *gettin better season*. Winter? Spring is almost here! Spring: Summer is just around the corner. Fall...😬🥴
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @teracchi_spring おはようございます☀
+てらっちさんも、素晴らしいお時間をお過ごしください🍀
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BastillaJenner: Imágenes que pasarán a la historia.
+
+Bella Hadid for Coperni and (Manel Torres (Fabrican Ltd.) Spring 2023. https://t.c…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WashTimes: Newly disclosed text messages between Elon Musk and Twitter CEO Parag Agrawal showed that the two men briefly bonded in the…
+2022-09-30 18:55:36 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @WorldwideJisoo: DIOR KakaoTalk ad with JISOO.
+
+“Meet the Dior Global Ambassador JISOO which shines at the Maria Grazia Chiuri DIOR Spri…
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Syaro_sleep: 【交換】あんスタ フィーチャー 缶バッジ 2021 SPRING Idol
+
+譲:零 ジュン ゆうた アドニス 斑 渉 藍良 翠 茨 晃牙 こはく
+
+求:同種夏目(2枚目)
+
+纏めての方優先。郵送のみ。
+難しいかと思いますが、検索からでもお気軽…
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/MUGxQeJTjj
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/4JUrjSpUQN
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @nytimesworld: Yusuf al-Qaradawi, a longtime advocate for political Islam, thought he was finally seeing his dreams come true in the Ara…
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @mecum how about a spring classic car auction from the Immokalee Casino.  People are going to need their toys.  Wonder how the Ferraris on 5th will turn out in December @ndn https://t.co/pcfE4zED7h
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 🏈🏈🏈 ⏰⏳ 
+High School Football 2022 to Day's Live Stream
+Nolensville vs Spring Hill 
+Yankton vs Brookings 
+Nation Ford vs Clover 
+Dell Rapids vs Beresford 
+Green Hill vs East Nashville Magnet 
+
+Watch Live Here https://t.co/rO58jWTgOD
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text got thai delivered! maybe our first? delivery of prepped food during the pandemic? 2nd? (and family brings us incredible food pretty regularly lol) 
+
+omg. massaman, spring rolls, shrimp basil rolls....happy birthday to me! https://t.co/DGETLEEyYP
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text i’m so glad they’re bringing art like this back to runway, reminds me of alexander mcqueen spring 1999
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @WarFiP2e @spring_gamefi https://t.co/RRawwHruA2
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KAFKA_Dev Alaska eerst, dan Europa t/m Tibet.
+https://t.co/iMamUfq7WB
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Miki_Trent 1  y 4
+2022-09-30 18:55:46 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @DrJohnFreedman: About WALLACEA: During the last Ice Age, lower sea levels extended the Asian & Australian continents significantly, as…
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JapanTraCul: Tochinoki hot spring, Higo, by Kawase Hasui, 1922
+
+#shinhanga https://t.co/tFyrwQA2N7
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JohnWascavage: I love the original choreography from Spring Awakening so much 😭 🔊 https://t.co/R0g6A5jEsH
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Free physically. underground spring. The
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+تويو • تو يو • 
+
+_____
+
+🌀 SAR 🌀
+🌀 SAR 🌀 
+🌀 SAR 🌀 https://t.co/8OwvpApJ91
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @swirlingO11: Cobalt Blue Glass Bunny Rabbit Shelf Sitter, Vintage Bunny Paperweight, Easter Spring Gift https://t.co/M3pKPf0A9Y #etsyTr…
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/jzY7QB7WPb
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ouchanmama おはよう御座います🎶
+(*⌒∇⌒*)💞
+楽しんで来ました✌️
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Budanov on the air of the national marathon. According to Budanov, the war will subside significantly in the winter, and the end of the conflict will begin in the spring. 🇺🇦 Telegram | Site | Instagram | Twitter | Facebook | Viber
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/XsqK5UQaao
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ArtisticLaurie: Featured Art of the Day: "Spring Flower Bouquet". Buy it at: https://t.co/YNnQCrGYLC https://t.co/R6ykNEW9MJ
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Carlists4Pete In other words, Peterson's formula IS his "baiting the left" PR strategy, right? Because without that, it's unlikely he reaches the audience that most needs a guy like him
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @FungiwithBengi Oh yes I remember finding these in the same area, right by the Shubenacadie river. What’s a loofah?🤣
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Buddhist Monks in Myanmar sent prayers for the immediate restoration of democracy and for the fallen heroes of Spring Revolution today.  #2022Sept30Coup #WhatsHappeningInMyanmar
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text A obra de Franz Kafka - Programa Causa Operária #44 - Rádio Cultura AM 9... https://t.co/Muil3s9dhG via @YouTube
+2022-09-30 18:55:58 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @JudyVincent74: Busy #Bumblebee Canvas Print #nature #bee #insects #summer #spring #prints for your #home or #office #decor #BuyIntoArt…
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @haligonia: Unconfirmed reports of a Spring Ave transformer explosion at an NSP substation, power is out in the area #dartmouth #hfxtraf…
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @RepNewhouse: The GDP shrank by 0.6% during the second quarter, indicating the start of a recession, as inflation continues to rage.
+ 
+W…
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【学習計画の見直し】全然甘かったのでw
+9/3まで
+・progate1周→HTML&CSSのみ完了
+---
+・10/15まで
+・progate2周目
+┗HTML＆CSS 
+pyogate1周め
+┗Java JQuery PHP
+10/15〜:Codestepで模写はじめ
+11/1〜：オリジナルサイト2つ作成
+12/15〜ポートフォリオサイト作成
+
+#webデザイン勉強中
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @easyloveaiono: how did people let charlie spring become an underrated character in a show that literally revolves around him
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/1vDSdSjrKN
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @First1Ryu すごぉォォォい‼️‼️‼️
+おめでとう㊗️🍾🎊
+手元にくるの楽しみだねー😍
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ty for tagging me! 🫶
+food: mozzarella sticks mm fried cheese
+drink: ginger ale
+color: sage green
+season: fall and spring, i love the transitions
+show: community (still waiting for the movie)
+@musesandmoons @jessicaivyreads @starlostpages @moonstruckprose @asweetdevouring https://t.co/Q1iRsJ4frE
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @IRISUNART: Miss Spring, @iris_sun_art #irisunart #art #artistic #artist #arte #artsy #arts #painting #paintings #galleryart #onlinegall…
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text My first programming language was java, new developers shouldn't fear it, its actually a solid and fast language.
+
+Also it's verbose if you don't know how to use it.  #TGIF #Java
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MC_of_A This past spring I went (unboosted) to a wedding the same week they stopped mandating masks on planes, got COVID for the first time. Last week, went to a wedding, boosted, felt so much better about it, did not get COVID.
+2022-09-30 18:56:12 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/60NJ2zSTbB
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text in  the  spring  we  made  a  boat
+out  of  feathers,  out  of  bones
+we  set  fire  to  our  homes
+walking  barefoot  in  the  snow
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Rad_Back_Again I usually do too but these last couple of weeks had so much on it has been neglected 😏.  
+
+Thursday my soul microbes arrived and  I do my spring overhaul of my garden - that I am very excited about 😁😁😁
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @whiskyyvt Ohhh muchas gracias uwu ❤️
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CarlBovisNature 1. Summer 2.  Spring. 3.  Fall and I’m not evening mentioning the “W” word.   Yuck
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: มาถึงคิวของหนุ่ม JAY B ที่เดินทางไปชมแฟชั่นโชว์ของ Isabel Marant คอลเล็กชั่น Spring/Summer 2023 กันที่ปารีสแฟชั่นวีคในลุค…
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text BelBella Hadid durante el cierre del desfile de Coperni Spring/Summer 2023 durante #PFW. - 30/09. https://t.co/DV3ktL8RfH
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/V6nx1fKw5b
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text okay i take it back and changed my mind cuz i already cant do this. 
+
+summer>> fall>> spring>> winter https://t.co/lVm8hOmyWr
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @harrysredadidas oop, it’ll be mid-spring here during halloween
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Mannison97 Honestly have a spring in my step every time I speak to him. He's an absolute delight
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ELLEThailand: Sandara Park @krungcy21 ทักทายแฟนๆ ELLE Thailand ก่อนเข้าชมแฟชั่นโชว์ของ @yohjiyamamotoofficial คอลเล็กชั่น Spring/Summer…
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @TTWBishonen: おはようございます☀
+今日も一日頑張りましょう！
+
+10月14日(金)23時59分まで予約受付中！- 美 少年「Spring Paradise ～YOU ＆ 美～」ダイジェスト映像 https://t.co/oBtxQxc2kZ @YouTub…
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Kafka_0666 やったぁ🙌💕
+カフカ壁さん、ありがとうございます✨
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Eri_addict: As Twitter NG no fit drag the song, they’re coming for the cover pic graphics😂😂 we don’t care sha because we’re living the…
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text i’m pushing myself SO HARD to make new female friendships but i don’t even want to anymore. this spring/summer has traumatized me. it’s so sickening.
+2022-09-30 18:56:25 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Why? He was sexist, racist and fatphobic . https://t.co/ymlstjtrqo
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguemagazine: For spring 2023, #Coperni dedicated its runway to “women of this world.” The main event? @bellahadid taking front and ce…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @theemmamag: spring loaded https://t.co/IJHlpS8nCo
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @akoko_mbero: My first programming language was java, new developers shouldn't fear it, its actually a solid and fast language.
+
+Also it…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @__uchennaaaaa2: 🎶 I want DJ Java. I need him right now
+#SoftLife https://t.co/XUVkCXqOI0
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @PikeGrey1418 @HardcoreHistory This was the Romanian front between Nov 1916 - March 1917 too. Future works on the subject should no longer consider the weather as a secondary factor.
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @tanakahisateru: Java と JavaScript の違いはインドとインドネシアぐらい別物と言われますが、例えがまだまだです。実際はカモメとゆりかもめぐらいの違いがあります
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Garden range list spring writer couple red describe. ['https://t.co/SUb4jTHloF']
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @4649onegaija 初めまして！
+
+頑張る者同志として、お互いにアカウントを伸ばし合える関係になれればと思い、リプさせていただきました！
+
+今後ともよろしくお願いします！✨
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CarymaRules I want Canadian Brass playing Sad Trombone. I will spring for beer.
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KAO_YinWar: To.Yin
+✨Wishing you a happy birthday, a great celebration, and a successful year.May all your dreams come true✨
+Cherry blos…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @CollectibleFREE Actually I'm a good friend of corrine's Brothers Scott and Glen knew the dad have Corrine hit me up I'm glad she's not with that actor anymore Ken W.
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KAO_YinWar: To.Yin
+✨Wishing you a happy birthday, a great celebration, and a successful year.May all your dreams come true✨
+Cherry blos…
+2022-09-30 18:56:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Giambattista Valli Spring 2023 #PFW https://t.co/WgOHWMf1Rl
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @gastt_fashion: ‘Pixelated’ Looks from Loewe Spring / Summer 2023. https://t.co/JED5sU737U
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @boost_java Here is your picture without the background @boost_java ! ✅ 
+Generated by @photoroom_app https://t.co/31KlKUhz1W
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @blaketaylor1112: Literally 40 minutes until the scrimmage and we already have more people than some people have in the spring…. @Colleg…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MysticRoyalTea Radishes are a great one to grow, they are pretty easy to grow and grow quickly. Plus yummy and crunchy.
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @fujima_spring @nukotarochan おおお情報ありがとうございます！というかそのままの名前だった😂wwあれ最高でしたよね、、今もレッドブルウォッカ置いてますか？
+なるほど！名前変わっても思い出の場所は残ってほしいですね🥲
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @bassemkrikorian I'm 90% certain you made that up.
+
+And 100% certain that if you didn't, you're talking about Ariel Gold (or someone in her coterie).
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @berryberry_69: 【譲渡/交換】あんスタ テーマスカウト缶バッジ 2021 SPRING idol
+
+譲→鳴上 嵐 10点
+求→定価＋送料 (交換の場合は同種友人分: 燐音🦊 or 固定ツイートマヨイ、千秋、イベコレ忍)
+
+※枠交換白紙分になります※
+初回リ…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @NCFBarbados: 🚨🚨 Please note that we will be offering PUBLIC PARKING WITH SHUTTLE SERVICE from 3:00 pm until 11:00 pm for Food Truck Mas…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @ma_ki_chim まきちゃんおはよー(ﾉ∀｀*)
+運動会、楽しめますようにー！！！
+いいお天気であること祈っているね😊🙏✨
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @babooowo: Alban🎭shimejiee .. 
+As you can see in the video, it is very cute🥺🧡
+Just click the link to download it. Instead, you must have…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @pabatrescue: Krimpet was wondering when spring will be arriving? She’s dying to spread her wings. Happy March friends.. one month close…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @marvel_updat3s: Filming of #Blade has been delayed to Spring 2023 
+#MarvelStudios https://t.co/1YjDVG7kuk
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @chloefashion: Guests attend the Chloé Spring-Summer 2023 show during Paris Fashion Week.
+
+1. Gabriela Hearst and the ‘Star Builders’ (C…
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: “you came.”                     "you called.”
+
+except it's solitaire https://t.co/aBgCjjOPCW
+2022-09-30 18:56:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text coperni me dejo sorprendida https://t.co/RxLSijYd7i
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @tanakahisateru: Java と JavaScript の違いはインドとインドネシアぐらい別物と言われますが、例えがまだまだです。実際はカモメとゆりかもめぐらいの違いがあります
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/D8fQhWgHau
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @NocturnalDesign @DrGJackBrown Dude, do you know any teachers? Any at all?
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/R4Od0sqT8y
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KROWTEN_CYM: #Arcblock #ABT 
+
+186m coincap listed on #coinbase 🚨🏆
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Py…
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @dreamworksjobs: Applications for our Spring 2023 Internships are coming soon! Stay tuned next week for exciting updates 😎 
+Check out ou…
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MaxKilworth: Bella Hadid closing Coperni SS23 in a spray-on dress that was created live on the runway using paint sprayers. A modern in…
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java Developer - Arlington, VA https://t.co/XW28mNFxzc
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Don't miss Jarabe Gourmet Pops and @2boldchefs_  at Montgomery College Takoma Park/Silver Spring Campus. Their food is delicious and it's only here until 8:30 pm https://t.co/DvSEtPZZhc
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text [DELAYED 90 SECONDS] [$18.88]
+2022 Spring Collector's Chest NEW SEALED Pokemon TCG
+#pokemonCards
+Source: ebay Listing
+Reason: Sold by pfootballpete4dhx
+
+06:54:49.4250 PM EDT #Ad
+
+https://t.co/MC7F2Ak5S1
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @SCalliss 💖
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @bejaha: I’m a native Texan and no spring chicken. I’ve never seen a candidate work as hard as Beto. He wants to help all Texans but has…
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Spring_Exalt This has me speechless, lmao
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Well Open Day is about to start at Siding Spring Observatory. The public will start arriving in minutes. Good to see that @ourANU VC @cosmicpinot opened the Lodge here. Splendid establishment it is too! They forgot to mention on the plaque that he is a Nobel laureate 🤔 https://t.co/5IgEyBGVOi
+2022-09-30 18:56:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @CaseyJ_516: 🥵Mets giveaway alert🥵
+A signed Francisco Alvarez baseball
+Got two at PSL this spring. Giving away one
+
+Rules to enter:
+Foll…
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @joebasurto: 🧑‍🎤👩‍🎤👨‍🎤 You asked for it! Please enjoy some backwards guitar below. The reverb is an authentic JOE BASURTO MODDED spring…
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Spring. Spring another’s eyes--this is valuable
+ك̷و̷د̶ ̸خ̷ص̸م̴ 
+كوبون 
+• نمشي • 
+• نون • 
+• تويو • • تو يو • 
+_____
+
+🌀 7FF 🌀
+🌀 7FF 🌀 
+🌀 FOOD  🌀 https://t.co/0iKBz9XMJF
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text seasons btw not events cuz winter events (christmas) washes EVERYTHING
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @onikasdestiny * spring> fall> summer> winter
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @tanakahisateru: Java と JavaScript の違いはインドとインドネシアぐらい別物と言われますが、例えがまだまだです。実際はカモメとゆりかもめぐらいの違いがあります
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ProfZode: #SoftLife was recorded in 2hrs. 
+
+Stream the single from Erica Nlewedim and DJ Java.
+https://t.co/9F84GtUlX5
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jeremiyake: Gagged by the texture and the details of this skeleton trompe l’œil suit at Off-White Spring 2023. https://t.co/ag19DjKaKQ
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yarotrof: To be fair, he was a convicted bank robber and was in prison in Ukraine before becoming a hero of the Russian Spring in 2014.
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Skyscape #17 has just been collected on @0xCampfire 
+(Spring Mist color palette, Light Theme, 2 planets, 11 moons, steepness: 1)
+
+58/100 pieces left in the revealed pieces. 👇
+https://t.co/UXps4yImR2
+
+#AVAXART #AvaxNftRush #AVAXNFT https://t.co/9CbPbCOyqC
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Angélica descarta Bolsonaro e declara voto
+
+Ajuda aí, nos segue!
+
+#desenvolvedores #php #java #javascript
+
+https://t.co/scKinGvypl
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_ja743a ハルくんおはよ〜♡←
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @MediaBHARG: AND SHE IS THE MOMENT! Bella Hadid desfilando para Coperni Spring/Summer 2023 en Paris, Francia. - 30/09. Más fotos: https:…
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング：2位❗(CPU)
+
+「Corei5-10600K 4.1GHz 6C/ 12TH BX8070110600K」
+メーカ:intel
+
+価格:¥42,230✨
+🔥売り切れ間近🔥(07:57)
+
+https://t.co/49WZiJhvI8
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text ❗ランキング:22位❗(今週の新着)
+
+「■CAMP LOGOS モンスターパーカー  (サンド)  M 33209603」
+メーカ:ロゴス
+
+価格:¥17,000✨
+🔥売り切れ間近🔥(07:57)
+
+https://t.co/taBMa6DjYD
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @spring_nwinter its also very sprolden
+2022-09-30 18:57:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Truthfairy74 @CarlBovisNature Loved this answer

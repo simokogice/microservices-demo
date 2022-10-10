@@ -1,0 +1,24 @@
+server:
+  port: 8888
+logging:
+  level:
+    ROOT: INFO
+    org.spring.framework.cloud.config: DEBUG,
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      server:
+        git:
+          #uri: file://Users/gillescedric/Documents/Formations/EVENT-DRIVEN MICROSERVICES/microvervices-demo/config-server-repository
+          uri: https://github.com/simokogice/spring-cloud-config-server-repositories
+          username: simokogice
+          password: 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
+          default-label: main # main is the default label
+          clone-on-start: true
+        fail-fast: true
+  security:
+    user:
+      name: spring_cloud_user
+      password: springCloud_Pwd
