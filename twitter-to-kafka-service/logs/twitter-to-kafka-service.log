@@ -3878,3 +3878,295 @@ https://t.co/tDzCBprUPn
 2022-10-10 08:18:37 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1552634396531863553, "id": 1579446273299869696, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404310000}' to topic='twitter-topic'
 2022-10-10 08:18:37 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Minecraft: Java & Bedrock Edition for PC Minecraft: Java & Bedrock Edition for PC https://t.co/tN2cZXpFz1 sending to kafka topic twitter-topic
 2022-10-10 08:18:37 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1532940170961465344, "id": 1579446274818203648, "text": "Minecraft: Java & Bedrock Edition for PC Minecraft: Java & Bedrock Edition for PC https://t.co/tN2cZXpFz1", "createdAt": 1665404311000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kodekloud1: #Kubernetes Deployment Strategies.
+
+Today, we explore the mechanisms available with native Kubernetes to perform various de… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1350436666230521859, "id": 1579446279926841346, "text": "RT @kodekloud1: #Kubernetes Deployment Strategies.\n\nToday, we explore the mechanisms available with native Kubernetes to perform various de\u2026", "createdAt": 1665404312000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @springwab Spring day sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 269586239, "id": 1579446291440230400, "text": "@springwab Spring day", "createdAt": 1665404315000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_2021: Buddhist monks from Mandalay Sangha Union continued to stage their regular prayer strike to protest against Military Dicta… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1312727209098928129, "id": 1579446290882387968, "text": "RT @spring_2021: Buddhist monks from Mandalay Sangha Union continued to stage their regular prayer strike to protest against Military Dicta\u2026", "createdAt": 1665404315000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Sisi_Zee: I really hate babes whose personality revolves around their boobs and ass, nothing intellectual to offer, nothing sensible to… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1449150525660966913, "id": 1579446290957885440, "text": "RT @Sisi_Zee: I really hate babes whose personality revolves around their boobs and ass, nothing intellectual to offer, nothing sensible to\u2026", "createdAt": 1665404315000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Jimin13_spring: 첫번째 카페 너와늘
+옷입히기 관심 있는분들은 추천!
+저는... 관심은 없지만 여기 구성이 세트구성만 있어서... ㅜㅜ
+
+I'm so happy that your voice is in my heart #WithYou… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1343206312872538113, "id": 1579446292992102400, "text": "RT @Jimin13_spring: 첫번째 카페 너와늘\n옷입히기 관심 있는분들은 추천!\n저는... 관심은 없지만 여기 구성이 세트구성만 있어서... ㅜㅜ\n\nI'm so happy that your voice is in my heart #WithYou\u2026", "createdAt": 1665404315000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @xnya_0x # なおりゅと
+作間くんが持ってるハッシュタグいっぱい使わないとね！！DVD待ち遠しいね🥲➰ https://t.co/yGA6NiX2tJ sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1557989904516145152, "id": 1579446289108201472, "text": "@xnya_0x # なおりゅと\n作間くんが持ってるハッシュタグいっぱい使わないとね！！DVD待ち遠しいね🥲➰ https://t.co/yGA6NiX2tJ", "createdAt": 1665404314000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「ハッシュタグ」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD
+#ジャニーズ21組
+https:… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1552634396531863553, "id": 1579446289406005250, "text": "RT @islandtv_up: 「ハッシュタグ」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\n#ジャニーズ21組\nhttps:\u2026", "createdAt": 1665404314000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jennieaceitgirl: JENNIE ranked #4 in the Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 with an Earned Media V… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 752343008100519936, "id": 1579446295538077704, "text": "RT @jennieaceitgirl: JENNIE ranked #4 in the Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 with an Earned Media V\u2026", "createdAt": 1665404316000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @FazzyQadir In spring when the blue bells are out. sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 28393275, "id": 1579446297018654721, "text": "@FazzyQadir In spring when the blue bells are out.", "createdAt": 1665404316000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 852446827, "id": 1579446299900137477, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404317000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Beautiful!!! https://t.co/GSFVC5GauT sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1538541504788062208, "id": 1579446298016907264, "text": "Beautiful!!! https://t.co/GSFVC5GauT", "createdAt": 1665404316000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @AFSBALL: The schedule is out for next weekend's Ronald McDonald Tournament in Spring, TX.  AF National is looking forward to playing wi… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1546825625075425280, "id": 1579446298008510464, "text": "RT @AFSBALL: The schedule is out for next weekend's Ronald McDonald Tournament in Spring, TX.  AF National is looking forward to playing wi\u2026", "createdAt": 1665404316000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yellow__spring_: 팬텀싱어 기세즁 https://t.co/TdFkqFPytk sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1492488516764598276, "id": 1579446305990270976, "text": "RT @yellow__spring_: 팬텀싱어 기세즁 https://t.co/TdFkqFPytk", "createdAt": 1665404318000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @BitchHeiress @LadyVinters @RebellingRose @lissafair @MuseumSharon Cristobal Balenciaga Spring/Summer 1948 Pink Silk Ballgown with Steel. Met Museum https://t.co/x6mPtNEGHO sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2258290856, "id": 1579446315414847490, "text": "@BitchHeiress @LadyVinters @RebellingRose @lissafair @MuseumSharon Cristobal Balenciaga Spring/Summer 1948 Pink Silk Ballgown with Steel. Met Museum https://t.co/x6mPtNEGHO", "createdAt": 1665404320000}' to topic='twitter-topic'
+2022-10-10 08:18:47 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @yseddd: ✨rt & like are very appreciated💚✨
+
+A scent does have a special way to make you feel lighter.
+Our first scented candles has laun… sending to kafka topic twitter-topic
+2022-10-10 08:18:47 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 438951708, "id": 1579446314370502656, "text": "RT @yseddd: ✨rt & like are very appreciated💚✨\n\nA scent does have a special way to make you feel lighter.\nOur first scented candles has laun\u2026", "createdAt": 1665404320000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @vlad_mihalcea: Spring Boot Application Properties
+ 
+https://t.co/0Qhhhs28Ec https://t.co/VbjynJkGJW sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1535363294, "id": 1579446317746569216, "text": "RT @vlad_mihalcea: Spring Boot Application Properties\n \nhttps://t.co/0Qhhhs28Ec https://t.co/VbjynJkGJW", "createdAt": 1665404321000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @pentaw0w: 1. shine mv shooting
+2.sxss performance on rtk and jinho changing the lyrics to "spring snow will come " and the next day sno… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1295638850367188993, "id": 1579446324134838273, "text": "RT @pentaw0w: 1. shine mv shooting\n2.sxss performance on rtk and jinho changing the lyrics to \"spring snow will come \" and the next day sno\u2026", "createdAt": 1665404323000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @KelRebel Respect voor onderzoeksjournalisten M.A.F.K.A. sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2538640486, "id": 1579446324373901314, "text": "@KelRebel Respect voor onderzoeksjournalisten M.A.F.K.A.", "createdAt": 1665404323000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @F1SpoilerAlert Ik ben het er mee eens dat ze nog wel 2 minuten hadden kunnen wachten met die takelwagen. Maar Gasly en de rest van de wereld vindt t heel erg dat ie daar staat....waar ook de auto van Sainz staat. Gasly kan ook 50 km/h rijden ter plaatse van de crash site... sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1177180860690382848, "id": 1579446323044286464, "text": "@F1SpoilerAlert Ik ben het er mee eens dat ze nog wel 2 minuten hadden kunnen wachten met die takelwagen. Maar Gasly en de rest van de wereld vindt t heel erg dat ie daar staat....waar ook de auto van Sainz staat. Gasly kan ook 50 km/h rijden ter plaatse van de crash site...", "createdAt": 1665404322000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「ハッシュタグ」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD
+#ジャニーズ21組
+https:… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1021509670018543616, "id": 1579446323342102531, "text": "RT @islandtv_up: 「ハッシュタグ」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\n#ジャニーズ21組\nhttps:\u2026", "createdAt": 1665404322000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @Spring_GDS_ES Buenos días, podrían regalar información  para los pedidos que se realizan desde Colombia. Estoy teniendo inconvenientes para rastrear un pedido. sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1066760206007377921, "id": 1579446328748544001, "text": "@Spring_GDS_ES Buenos días, podrían regalar información  para los pedidos que se realizan desde Colombia. Estoy teniendo inconvenientes para rastrear un pedido.", "createdAt": 1665404324000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @fleur231092: I’ve been looking for the spring of my life, you just smile.
+Tôi vốn tìm kiếm mùa xuân của đời mình, cho đến khi em tình c… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1542414962538061824, "id": 1579446330812157953, "text": "RT @fleur231092: I\u2019ve been looking for the spring of my life, you just smile.\nTôi vốn tìm kiếm mùa xuân của đời mình, cho đến khi em tình c\u2026", "createdAt": 1665404324000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @90s_muse: Need this mini dress from herve leger Spring 1996 https://t.co/D6Ce0eYaXH sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1512518056307830788, "id": 1579446330325622787, "text": "RT @90s_muse: Need this mini dress from herve leger Spring 1996 https://t.co/D6Ce0eYaXH", "createdAt": 1665404324000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @1102_asuna: イベコレ 2021 autumn 2022 spring
+テーマ フィーチャー シャッフル
+缶バッジ 交換/譲渡
+譲→桃李 友也 なずな 茨 ジュン 燐音 こはく 司 レオ 敬人 颯馬 晃牙 アドニス 夏目 巽 斑 奏汰 桃李 日和 翠 凛月 ゆ… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1404035204839141378, "id": 1579446329490931713, "text": "RT @1102_asuna: イベコレ 2021 autumn 2022 spring\nテーマ フィーチャー シャッフル\n缶バッジ 交換/譲渡\n譲→桃李 友也 なずな 茨 ジュン 燐音 こはく 司 レオ 敬人 颯馬 晃牙 アドニス 夏目 巽 斑 奏汰 桃李 日和 翠 凛月 ゆ\u2026", "createdAt": 1665404324000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text accident:US-75  northbound Spring Valley Rd Richardson various Lns blocked sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3282496506, "id": 1579446335757254657, "text": "accident:US-75  northbound Spring Valley Rd Richardson various Lns blocked", "createdAt": 1665404325000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text accident:US-75  northbound Spring Valley Rd Richardson various Lns blocked sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3282467292, "id": 1579446336629665794, "text": "accident:US-75  northbound Spring Valley Rd Richardson various Lns blocked", "createdAt": 1665404326000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @PPJSWang: คุณชื่ออะไร “ปอเปี๊ยะ” “spring roll”
+#MAGICMAN #Blue #Cruel #Blow
+#JacksonWang #王嘉尔 #잭슨 
+@JacksonWang852 https://t.co/43nqY2d… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1547103406506262529, "id": 1579446335086166016, "text": "RT @PPJSWang: คุณชื่ออะไร \u201Cปอเปี๊ยะ\u201D \u201Cspring roll\u201D\n#MAGICMAN #Blue #Cruel #Blow\n#JacksonWang #王嘉尔 #잭슨 \n@JacksonWang852 https://t.co/43nqY2d\u2026", "createdAt": 1665404325000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 734274419971891200, "id": 1579446342552031232, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404327000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1159040654493663232, "id": 1579446343818706945, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404327000}' to topic='twitter-topic'
+2022-10-10 08:18:53 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:18:53 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1528664299102941184, "id": 1579446344800161793, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404327000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Visit_NJ: One of the best places to watch the sunrise in NJ is on the beach because it rises over the ocean. Start your day right. 
+📍Sp… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 270952861, "id": 1579446343797395456, "text": "RT @Visit_NJ: One of the best places to watch the sunrise in NJ is on the beach because it rises over the ocean. Start your day right. \n📍Sp\u2026", "createdAt": 1665404327000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @ItsKimElla: نامجون لیدر بی تی اس آهنگ Spring day ک ۲۰۱۷ منتشر کردن با متن «یعنی اون روز بهاری از راه میرسه؟» استوری کرده، اونهم یکروز ب… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1543123742309715969, "id": 1579446347392221184, "text": "RT @ItsKimElla: نامجون لیدر بی تی اس آهنگ Spring day ک ۲۰۱۷ منتشر کردن با متن «یعنی اون روز بهاری از راه میرسه؟» استوری کرده، اونهم یکروز ب\u2026", "createdAt": 1665404328000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 和歌山カレー事件、この事件の解決にも分析化学が役だっているってご存知でしたか？XRF(蛍光X線分析)という方法を使って、カレーに混入したヒ素の不純物のパターンと、容疑者の自宅で見つかったヒ素の不純物のパターン照合したんです。それも、播磨にあるSPring-8を使用したんですよ！ sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2778413814, "id": 1579446350160486400, "text": "和歌山カレー事件、この事件の解決にも分析化学が役だっているってご存知でしたか？XRF(蛍光X線分析)という方法を使って、カレーに混入したヒ素の不純物のパターンと、容疑者の自宅で見つかったヒ素の不純物のパターン照合したんです。それも、播磨にあるSPring-8を使用したんですよ！", "createdAt": 1665404329000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @iamyourfarmer I do remember that, and I wonder what happened with it. sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1257397875367129088, "id": 1579446354145079296, "text": "@iamyourfarmer I do remember that, and I wonder what happened with it.", "createdAt": 1665404330000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @CTjangmi: @Jimin13_spring @BTS_twt 하이커랑 피옵마님 생카 가는 봄날님도 부럽ㅜㅜ
+다갈 수 없는게 아쉽지만 선택과 집중!!!
+
+Loving #WithYou by #JIMIN #BTSJIMIN of #BTS (@BTS… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1386510594304471047, "id": 1579446358830112769, "text": "RT @CTjangmi: @Jimin13_spring @BTS_twt 하이커랑 피옵마님 생카 가는 봄날님도 부럽ㅜㅜ\n다갈 수 없는게 아쉽지만 선택과 집중!!!\n\nLoving #WithYou by #JIMIN #BTSJIMIN of #BTS (@BTS\u2026", "createdAt": 1665404331000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @islandtv_up 更新ありがとうございます！
+ハッシュタグでたくさんの方の目に留まってくれたら嬉しいですね🥺♥️
+#ジャニーズ21組の曲が入ったDVD sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1253085830043668480, "id": 1579446363624202240, "text": "@islandtv_up 更新ありがとうございます！\nハッシュタグでたくさんの方の目に留まってくれたら嬉しいですね🥺♥️\n#ジャニーズ21組の曲が入ったDVD", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @golddenini: Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 (Tracking period: 25th sep - 5th oct)
+
+1. @.sooyaaa… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1297945372535463938, "id": 1579446363590651904, "text": "RT @golddenini: Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 (Tracking period: 25th sep - 5th oct)\n\n1. @.sooyaaa\u2026", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BLACKPINKMXCO: 🔝 Influencers en la Semana de la Moda de París Spring-Summer 2023 con MIV Ganado
+
+#1 #JISOO - 22.4M 
+#3 #ROSÉ- 21.7M
+#4… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1481488243715719170, "id": 1579446361812262912, "text": "RT @BLACKPINKMXCO: 🔝 Influencers en la Semana de la Moda de París Spring-Summer 2023 con MIV Ganado\n\n#1 #JISOO - 22.4M \n#3 #ROSÉ- 21.7M\n#4\u2026", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @KelRebel: Echt superinteressante info gozert. 
+
+Donderdag ga ik naar een loodgieter in Schubbenkutteveen om bijgepraat te worden over d… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2538640486, "id": 1579446360327479297, "text": "RT @KelRebel: Echt superinteressante info gozert. \n\nDonderdag ga ik naar een loodgieter in Schubbenkutteveen om bijgepraat te worden over d\u2026", "createdAt": 1665404331000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @MYS3V3N And spring day and magic shop and 2!3! and we are bulletptoof and mikrokosmos sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1518895282984939520, "id": 1579446366329540608, "text": "@MYS3V3N And spring day and magic shop and 2!3! and we are bulletptoof and mikrokosmos", "createdAt": 1665404333000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【交換】あんスタ   あんさんぶるスターズ      テーマスカウト缶バッジ［2022 SPRING］
+
+【求】日和
+
+【譲】巽、奏汰、桃李、翠
+
+☆アニメイトにて3box予約済み。
+☆郵送のみ。
+☆一部お声かけ中
+☆1box〜でもお気軽にお声かけください！ https://t.co/IeccJZnHM3 sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1563127618467418117, "id": 1579446368497963008, "text": "【交換】あんスタ   あんさんぶるスターズ      テーマスカウト缶バッジ［2022 SPRING］\n\n【求】日和\n\n【譲】巽、奏汰、桃李、翠\n\n☆アニメイトにて3box予約済み。\n☆郵送のみ。\n☆一部お声かけ中\n☆1box〜でもお気軽にお声かけください！ https://t.co/IeccJZnHM3", "createdAt": 1665404333000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @golddenini: Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 (Tracking period: 25th sep - 5th oct)
+
+1. @.sooyaaa… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1574752915314692099, "id": 1579446364169437184, "text": "RT @golddenini: Top 10 Influencers EMV Ranking at Paris Fashion Week Spring/Summer 2023 (Tracking period: 25th sep - 5th oct)\n\n1. @.sooyaaa\u2026", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @thethirstyalt God fucking dammit sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 730648931269369857, "id": 1579446365473878017, "text": "@thethirstyalt God fucking dammit", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 受注生産ですからね！みなさん後悔のないように！！！
+
+#ジャニーズ21組の曲が入ったDVD https://t.co/gIbqtK4Zb5 sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3163426027, "id": 1579446363456430081, "text": "受注生産ですからね！みなさん後悔のないように！！！\n\n#ジャニーズ21組の曲が入ったDVD https://t.co/gIbqtK4Zb5", "createdAt": 1665404332000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @PJM_vocal: Theyz are going to recreate the entire yet to come mv set , they might install the sets for spring day too , since the stage… sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1539582000444559361, "id": 1579446368762228736, "text": "RT @PJM_vocal: Theyz are going to recreate the entire yet to come mv set , they might install the sets for spring day too , since the stage\u2026", "createdAt": 1665404333000}' to topic='twitter-topic'
+2022-10-10 08:18:59 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @fulminant_funny Ich muss lachen sonst spring ich aus dem Fenster 🙈 sending to kafka topic twitter-topic
+2022-10-10 08:18:59 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1226955732668559364, "id": 1579446369412317184, "text": "@fulminant_funny Ich muss lachen sonst spring ich aus dem Fenster 🙈", "createdAt": 1665404333000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kim_sojin_: #앙스타장터 #RT
+2022 spring 피쳐코레 30box 공구합니다
+공구가 무사히 완료 된다면 
+알티추첨 한분께 >>5만원 계좌입금<< 
+타래까지 전부 확인 후에 디엠주세요 
+안읽으시고 오셔서 생겨난 불상사는 책임X… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1284084638244167680, "id": 1579446369768869888, "text": "RT @kim_sojin_: #앙스타장터 #RT\n2022 spring 피쳐코레 30box 공구합니다\n공구가 무사히 완료 된다면 \n알티추첨 한분께 >>5만원 계좌입금<< \n타래까지 전부 확인 후에 디엠주세요 \n안읽으시고 오셔서 생겨난 불상사는 책임X\u2026", "createdAt": 1665404333000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @FindNatureNow: Spring is in the air 🐝 Happy Friday & have a FAB weekend 💚🌼 #nature #FridayFeeling #blossom #spring https://t.co/foWdGXL… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1345440258536722433, "id": 1579446371027124226, "text": "RT @FindNatureNow: Spring is in the air 🐝 Happy Friday & have a FAB weekend 💚🌼 #nature #FridayFeeling #blossom #spring https://t.co/foWdGXL\u2026", "createdAt": 1665404334000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @RojavaIC: STJ calls for the establishment of independent committees to look into past and future complaints and allegations regarding v… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1512508757384863746, "id": 1579446371035549696, "text": "RT @RojavaIC: STJ calls for the establishment of independent committees to look into past and future complaints and allegations regarding v\u2026", "createdAt": 1665404334000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @BLACKPINK_BBU: .@BLACKPINK’s #LISA  earns over $29M Earned Media Value at the Milan and Paris Fashion Week Spring-Summer 2023, that cre… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1369502419923722240, "id": 1579446376727195649, "text": "RT @BLACKPINK_BBU: .@BLACKPINK\u2019s #LISA  earns over $29M Earned Media Value at the Milan and Paris Fashion Week Spring-Summer 2023, that cre\u2026", "createdAt": 1665404335000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「ハッシュタグ」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD
+#ジャニーズ21組
+https:… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1401535338628014090, "id": 1579446377025015809, "text": "RT @islandtv_up: 「ハッシュタグ」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\n#ジャニーズ21組\nhttps:\u2026", "createdAt": 1665404335000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @RobinBrooksIIF: The IMF-World Bank spring meetings 6 months ago sparked a meaningful drop in the Euro, because it was the first time pe… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 21810329, "id": 1579446376920125441, "text": "RT @RobinBrooksIIF: The IMF-World Bank spring meetings 6 months ago sparked a meaningful drop in the Euro, because it was the first time pe\u2026", "createdAt": 1665404335000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @HiHi__J5: #ジャニーズ21組の曲が入ったDVD HiHi Jetsのスプパラの予約締切日が迫ってきました！恋涙など名曲もカバー、オリ曲も沢山のDVDです！気になった皆様ぜひ予約お願いします！！
+
+10月14日(金)23時59分まで予約受付中-！ HiHi Je… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1164294145042554880, "id": 1579446379361226753, "text": "RT @HiHi__J5: #ジャニーズ21組の曲が入ったDVD HiHi Jetsのスプパラの予約締切日が迫ってきました！恋涙など名曲もカバー、オリ曲も沢山のDVDです！気になった皆様ぜひ予約お願いします！！\n\n10月14日(金)23時59分まで予約受付中-！ HiHi Je\u2026", "createdAt": 1665404336000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1543524258378567680, "id": 1579446378958573574, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404336000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @kyuna06goods: 【交換･譲渡】あんスタ 缶バッジ イベコレ缶バッジ イベコレ缶
+
+譲：
+🌸2022 SPRING Idol
+つむぎ⑤､*宙⑤､*斑⑤､こはく⑤､巽⑤､日和⑤､ジュン⑤､HiMERU⑤､*北斗⑤､真⑤
+
+求：みか、定価(＋送料/クリックポスト)… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2579417485, "id": 1579446385094852610, "text": "RT @kyuna06goods: 【交換･譲渡】あんスタ 缶バッジ イベコレ缶バッジ イベコレ缶\n\n譲：\n🌸2022 SPRING Idol\nつむぎ⑤､*宙⑤､*斑⑤､こはく⑤､巽⑤､日和⑤､ジュン⑤､HiMERU⑤､*北斗⑤､真⑤\n\n求：みか、定価(＋送料/クリックポスト)\u2026", "createdAt": 1665404337000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 【交換】あんスタ フィーチャー フィーチャー缶バッジ 2022 Spring idol
+1box予約済み
+
+譲  凛月、泉、薫、凪砂  以外
+
+求  凛月、泉
+
+星5⇔泉の交換は1:2のみ。
+
+気軽にお声かけください。 https://t.co/yeOmy4E93W sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1535834542816129024, "id": 1579446383463239685, "text": "【交換】あんスタ フィーチャー フィーチャー缶バッジ 2022 Spring idol\n1box予約済み\n\n譲  凛月、泉、薫、凪砂  以外\n\n求  凛月、泉\n\n星5⇔泉の交換は1:2のみ。\n\n気軽にお声かけください。 https://t.co/yeOmy4E93W", "createdAt": 1665404337000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text Java Girl - made with NightCafe Creator https://t.co/I0SE5WaHGe #aiart #nightcafe #digitalart #vqganclip via @NightcafeStudio sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 98786485, "id": 1579446384025296898, "text": "Java Girl - made with NightCafe Creator https://t.co/I0SE5WaHGe #aiart #nightcafe #digitalart #vqganclip via @NightcafeStudio", "createdAt": 1665404337000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @TheXFilesPage @GillianA @womenforwomenUK One last point while I’m on this rant the Biden Administration has been dangling this big Social Security increase since Spring! Because of COVID & inflation so why is it we’re forced to wait until January to get it they just talking about it on the news right now again! sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1524708675520286721, "id": 1579446387481399298, "text": "@TheXFilesPage @GillianA @womenforwomenUK One last point while I\u2019m on this rant the Biden Administration has been dangling this big Social Security increase since Spring! Because of COVID & inflation so why is it we\u2019re forced to wait until January to get it they just talking about it on the news right now again!", "createdAt": 1665404338000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jenniecomefirst: เจนนี่ติด #4 ของ Top 10 Influencers EMV Ranking ในช่วง Paris Fashion Week Spring/Summer 2023 เก็บข้อมูลตั้งแต่ 25 กันย… sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1428317388, "id": 1579446387326193666, "text": "RT @jenniecomefirst: เจนนี่ติด #4 ของ Top 10 Influencers EMV Ranking ในช่วง Paris Fashion Week Spring/Summer 2023 เก็บข้อมูลตั้งแต่ 25 กันย\u2026", "createdAt": 1665404338000}' to topic='twitter-topic'
+2022-10-10 08:19:04 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_boy_0320: 221008 TMA 장난꾸러기들>ㅁ<
+
+#현진 #황현진 #hyunjin @Stray_Kids https://t.co/rirQwBIGne sending to kafka topic twitter-topic
+2022-10-10 08:19:04 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1202118144166264833, "id": 1579446391260483584, "text": "RT @spring_boy_0320: 221008 TMA 장난꾸러기들>ㅁ<\n\n#현진 #황현진 #hyunjin @Stray_Kids https://t.co/rirQwBIGne", "createdAt": 1665404339000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @kimberl38536738 They will learn.. everyone ages. sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1532771112379207680, "id": 1579446392967553026, "text": "@kimberl38536738 They will learn.. everyone ages.", "createdAt": 1665404339000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text #ジャニーズ21組の曲が入ったDVD https://t.co/1B8SwKuOxi sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1560221794770259970, "id": 1579446397547728897, "text": "#ジャニーズ21組の曲が入ったDVD https://t.co/1B8SwKuOxi", "createdAt": 1665404340000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @I_Am_Spring_Day They should know about you all truly! sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1271346488241582082, "id": 1579446394968244225, "text": "@I_Am_Spring_Day They should know about you all truly!", "createdAt": 1665404339000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @geraldstratfor3: We plant a lot of bulbs every autumn for a.nice show in the spring cheers https://t.co/8aj0Z8HHmE sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1442659064727674883, "id": 1579446398533402626, "text": "RT @geraldstratfor3: We plant a lot of bulbs every autumn for a.nice show in the spring cheers https://t.co/8aj0Z8HHmE", "createdAt": 1665404340000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @homotimes: Paco Rabanne Haute Couture, Spring 1998 https://t.co/uKGI1vKS5x sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1362298612680687618, "id": 1579446406129291265, "text": "RT @homotimes: Paco Rabanne Haute Couture, Spring 1998 https://t.co/uKGI1vKS5x", "createdAt": 1665404342000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @0818X0419: Seoul Fashion Week S/S 2023 Spring Summer - Namjoo
+11/10 @ 6 PM KST. https://t.co/ClhKEpQKOE sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1046816205648982017, "id": 1579446404929687552, "text": "RT @0818X0419: Seoul Fashion Week S/S 2023 Spring Summer - Namjoo\n11/10 @ 6 PM KST. https://t.co/ClhKEpQKOE", "createdAt": 1665404342000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @jenniecomefirst: เจนนี่ติด #4 ของ Top 10 Influencers EMV Ranking ในช่วง Paris Fashion Week Spring/Summer 2023 เก็บข้อมูลตั้งแต่ 25 กันย… sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1414124847932665857, "id": 1579446409237245953, "text": "RT @jenniecomefirst: เจนนี่ติด #4 ของ Top 10 Influencers EMV Ranking ในช่วง Paris Fashion Week Spring/Summer 2023 เก็บข้อมูลตั้งแต่ 25 กันย\u2026", "createdAt": 1665404343000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「ハッシュタグ」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD
+#ジャニーズ21組
+https:… sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1157848662539567104, "id": 1579446407723110401, "text": "RT @islandtv_up: 「ハッシュタグ」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\n#ジャニーズ21組\nhttps:\u2026", "createdAt": 1665404342000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @islandtv_up: 「DVD販売！予約締切間もなくです！」
+Spring Paradise DVDの予約はこちらだぉ！
+https://t.co/tDzCBprUPn
+
+#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets
+#ジャニーズ21組の曲が入ったDVD… sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 983586117814435841, "id": 1579446414018494466, "text": "RT @islandtv_up: 「DVD販売！予約締切間もなくです！」\nSpring Paradise DVDの予約はこちらだぉ！\nhttps://t.co/tDzCBprUPn\n\n#髙橋優斗 #猪狩蒼弥 #作間龍斗 ##HiHiJets\n#ジャニーズ21組の曲が入ったDVD\u2026", "createdAt": 1665404344000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @alina_yurenko Java is not an acronym.. sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1424684428559847428, "id": 1579446416820555776, "text": "@alina_yurenko Java is not an acronym..", "createdAt": 1665404345000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text 作間の顔がはちゃめちゃにいいので見て欲しい https://t.co/7QHCGKYY6Z sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1234803410576138240, "id": 1579446416610832385, "text": "作間の顔がはちゃめちゃにいいので見て欲しい https://t.co/7QHCGKYY6Z", "createdAt": 1665404345000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @katerrinna91: hs4 will be an winter album when we have hs1 as the autumn one, fine line is the summer one and Harry's house is the spri… sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1427003862012022787, "id": 1579446421505601537, "text": "RT @katerrinna91: hs4 will be an winter album when we have hs1 as the autumn one, fine line is the summer one and Harry's house is the spri\u2026", "createdAt": 1665404346000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @Spring_190304: 아 무슨 표창 던지는 닌자처럼 던져ㅠ 이 아기 오타쿠야ㅠㅠㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/w7IckAs40p sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3235551050, "id": 1579446419651727362, "text": "RT @Spring_190304: 아 무슨 표창 던지는 닌자처럼 던져ㅠ 이 아기 오타쿠야ㅠㅠㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/w7IckAs40p", "createdAt": 1665404345000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @voguebusiness: The Spring/Summer 2023 season has come and gone with big celebrity moments, viral shows and a lot of noise. Vogue Busine… sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1383143063472599041, "id": 1579446427142746112, "text": "RT @voguebusiness: The Spring/Summer 2023 season has come and gone with big celebrity moments, viral shows and a lot of noise. Vogue Busine\u2026", "createdAt": 1665404347000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text @rinu___stpr かしこまりました。ありがとうございます！検討中の方いまして返信きしだい返信させていただきます。 sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1494948683925753857, "id": 1579446433039941638, "text": "@rinu___stpr かしこまりました。ありがとうございます！検討中の方いまして返信きしだい返信させていただきます。", "createdAt": 1665404348000}' to topic='twitter-topic'
+2022-10-10 08:19:15 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener -  Twiter status with text RT @spring_nwinter: OHHH THESE ARE SO CUTE https://t.co/MLzrqCM7UI sending to kafka topic twitter-topic
+2022-10-10 08:19:15 [main] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1425856918665445378, "id": 1579446434558267392, "text": "RT @spring_nwinter: OHHH THESE ARE SO CUTE https://t.co/MLzrqCM7UI", "createdAt": 1665404349000}' to topic='twitter-topic'
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  c.m.d.k.p.c.s.i.TwitterKafkaProducer - Closing kafka producer
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2022-10-10 08:19:20 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.producer for producer-1 unregistered
+2022-10-10 08:19:20 [kafka-admin-client-thread | adminclient-1] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for adminclient-1 unregistered
+2022-10-10 08:19:20 [kafka-admin-client-thread | adminclient-1] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2022-10-10 08:19:20 [kafka-admin-client-thread | adminclient-1] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-10-10 08:19:20 [kafka-admin-client-thread | adminclient-1] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
