@@ -21,6 +21,7 @@ spring:
   security:
     user:
       name: spring_cloud_user
-      password: '{cipher}751698f654990d7249831a3035d5b92f0c0ded5b034ebec25661d78aee433099'
+      password: springCloud_Pwd
+#      password: '{cipher}751698f654990d7249831a3035d5b92f0c0ded5b034ebec25661d78aee433099'
 encrypt:
   key: 'Demo_Pwd!2020'
